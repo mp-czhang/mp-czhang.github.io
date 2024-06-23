@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Chengzhu's Homepage"
 title_separator          : "-"
 name                     : &name "Chengzhu Zhang"
-description              : &description "personal description"
+description              : &description "Pesonal CV"
 url                      : https://mp-czhang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "mp-czhang/mp-czhang.github.io"
@@ -22,13 +22,13 @@ repository               : "mp-czhang/mp-czhang.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "New Jersey"
+  name             : "Chengzhu Zhang, Ph.D."
+  pronouns         : #He/His"  
+  bio              : "Meidcal Physics Resident"
+  location         : "Princeton, New Jersey"
   employer         : "Rutgers Cancer Institute of New Jersey"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "cz453@cinj.rutgers.edu" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
