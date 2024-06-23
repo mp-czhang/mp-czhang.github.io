@@ -2,6 +2,7 @@
 title: "Deep-Interior: A new pathway to interior tomographic image reconstruction via a weighted backprojection and deep learning"
 collection: publication
 permalink: /publication/2023-Deep-Interior-3
+authorship: 'first'
 excerpt: 'Deep-Interior ...'
 date: 2023-12-8
 venue: 'Medical physics'
