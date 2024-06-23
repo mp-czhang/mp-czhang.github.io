@@ -179,8 +179,7 @@ collections:
   research:
     output: true
     permalink: /:collection/:path/
-  clinical
-  :
+  clinical:
     output: true
     permalink: /:collection/:path/
   talks:
