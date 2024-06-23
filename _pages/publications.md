@@ -11,7 +11,6 @@ author_profile: true
 </div>
 {% endif %}
 
-# Publications
 
 ## First-Author Papers
 ---
