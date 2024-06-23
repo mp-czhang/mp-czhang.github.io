@@ -3,6 +3,7 @@ title: "Book Chapter: Deep Learning in CT Reconstruction: Bringing the Measured 
 collection: publication
 permalink: /publication/deep-learning-ct-reconstruction/
 date: 2023-09-15
+excerpt: 'Single NPS ...'
 authors: "Guang-Hong Chen, Chengzhu Zhang, Yinsheng Li, Yoseob Han, Jong Chul Ye"
 venue: "Deep Learning for Biomedical Image Reconstruction"
 publisher: "Cambridge University Press"
