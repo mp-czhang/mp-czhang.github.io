@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 First-Author Paper
-======
+---
 {% include base_path %}
 
 {% for post in site.publication reversed %}
@@ -18,4 +18,9 @@ First-Author Paper
 {% endfor %}
 
 Highlighted Co-author Paper
-======
+---
+{% include base_path %}
+
+{% for post in site.publication reversed %}
+  {% include archive-single.html %}
+{% endfor %}

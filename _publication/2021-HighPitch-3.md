@@ -1,11 +1,11 @@
 ---
-title: "Reconstruction of three‐dimensional tomographic patient models for radiation dose modulation in CT from two scout views using deep learning"
+title: "High pitch helical CT reconstruction"
 collection: publication
-permalink: /publication/2022-ScoutCT-Net-2
-excerpt: 'ScoutCT-Net ...'
-authorship: 'first'
-date: 2021-12-15
-venue: 'Medical physics'
+permalink: /publication/2021-HighPitch-3
+authorship: 'coauthor'
+excerpt: 'High-Pitch'
+date: 2021-5-24
+venue: 'IEEE Transactions on Medical Imaging'
 paperurl: 'http://mp-czhang.github.io/files/paper1.pdf'
 citation: 'Zhang, Chengzhu, Yinsheng Li, and Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical physics 48.10 (2021): 5765-5781.'
 ---
