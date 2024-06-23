@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "CV"
-    url: /cv/
+    url: /files/CV-ZhangChengzhu_v4.pdf
   
   - title: "Publications"
     url: /publication/
         
-  - title: "Research Interest"
+  - title: "Research"
     url: /research/
 
   - title: "Clinical Experience"
-    url: /clinic/    
+    url: /clinical/    
 
   - title: "Talent"
     url: /talent/    
