@@ -170,13 +170,17 @@ kramdown:
 
 # Collections
 collections:
-  teaching:
+  talent:
     output: true
     permalink: /:collection/:path/
-  publications:
+  publication:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  research:
+    output: true
+    permalink: /:collection/:path/
+  clinical
+  :
     output: true
     permalink: /:collection/:path/
   talks:
@@ -204,28 +208,28 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _talent
   - scope:
       path: ""
-      type: teaching
+      type: talent
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _publication
   - scope:
       path: ""
-      type: publications
+      type: publication
     values:
       layout: single
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _research
   - scope:
       path: ""
-      type: portfolio
+      type: research
     values:
       layout: single
       author_profile: true
