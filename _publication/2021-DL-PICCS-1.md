@@ -1,12 +1,11 @@
 ---
 title: "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)"
 collection: publications
-permalink: /publication/2021-DL-PICCS-1.md
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+permalink: /publication/2021-DL-PICCS-1
+excerpt: 'DL-PICCS ...'
 date: 2021-4
-venue: 'Medical Physics'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+venue: 'Medical physics'
+paperurl: 'http://mp-czhang.github.io/files/paper1.pdf'
 citation: 'Zhang, Chengzhu, Yinsheng Li, and Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical physics 48.10 (2021): 5765-5781.'
 ---
 
