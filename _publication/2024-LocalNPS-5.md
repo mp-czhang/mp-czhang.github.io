@@ -3,7 +3,7 @@ title: "Noise power spectrum (NPS) in computed tomography: Enabling local NPS me
 collection: publication
 permalink: /publication/2024-LocalNPS-5
 excerpt: 'NPS ...'
-date: 2024-5
+date: 2024-5-6
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/paper1.pdf'
 citation: 'Zhang, Chengzhu, Yinsheng Li, and Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical physics 48.10 (2021): 5765-5781.'

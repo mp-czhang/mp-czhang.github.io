@@ -3,7 +3,7 @@ title: "Deep-Interior: A new pathway to interior tomographic image reconstructio
 collection: publication
 permalink: /publication/2023-Deep-Interior-3
 excerpt: 'Deep-Interior ...'
-date: 2023-12
+date: 2023-12-8
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/paper1.pdf'
 citation: 'Zhang, Chengzhu, Yinsheng Li, and Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical physics 48.10 (2021): 5765-5781.'
