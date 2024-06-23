@@ -38,7 +38,7 @@ author_profile: true
 {% include base_path %}
 
 {% for post in site.publication reversed %}
-  {% if post.venue contains "Book" %}
+  {% if post.title contains "Book" %}
     {% include archive-single.html %}
   {% endif %}
 {% endfor %}

@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning in CT Reconstruction: Bringing the Measured Data to Tasks"
+title: "Book Chapter: Deep Learning in CT Reconstruction: Bringing the Measured Data to Tasks"
 collection: publication
 permalink: /publication/deep-learning-ct-reconstruction/
 date: 2023-09-15
