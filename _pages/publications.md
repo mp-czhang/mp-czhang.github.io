@@ -11,7 +11,6 @@ author_profile: true
 </div>
 {% endif %}
 
-
 ## First-Author Papers
 ---
 {% include base_path %}

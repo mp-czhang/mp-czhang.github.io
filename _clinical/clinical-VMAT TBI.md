@@ -1,7 +1,8 @@
 ---
 title: "Commissioning of VMAT-TBI"
 date: 2023-3-1
-excerpt: "Verification of MR-Linac <br/><img src='/images/500x300.png'>"
+excerpt: "Commisioning of the VMAT-TBI program at RWJBH. <br/><img src='/images/500x300.png'>"
+order: 2
 collection: clinical
 ---
 

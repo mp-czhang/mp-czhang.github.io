@@ -1,7 +1,8 @@
 ---
-title: "Varian True-beam Commisioning"
+title: "Commisioning of Varian True-beam TM"
 date: 2024-8-1
-excerpt: "A two-month commissioning of the Trube-beam machine<br/><img src='/images/500x300.png'>"
+excerpt: "A two-month commissioning of the Trube-beam machine in the new cancer center. <br/><img src='/images/500x300.png'>"
+order: 1
 collection: clinical
 ---
 
