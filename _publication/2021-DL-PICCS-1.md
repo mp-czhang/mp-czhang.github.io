@@ -1,6 +1,6 @@
 ---
 title: "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)"
-collection: publications
+collection: publication
 permalink: /publication/2021-DL-PICCS-1
 excerpt: 'DL-PICCS ...'
 date: 2021-4

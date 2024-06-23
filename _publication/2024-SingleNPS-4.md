@@ -1,6 +1,6 @@
 ---
 title: "Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition"
-collection: publications
+collection: publication
 permalink: /publication/2024-SingleNPS-4
 excerpt: 'Single NPS ...'
 date: 2024-5

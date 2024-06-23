@@ -1,6 +1,6 @@
 ---
 title: "Reconstruction of three‐dimensional tomographic patient models for radiation dose modulation in CT from two scout views using deep learning"
-collection: publications
+collection: publication
 permalink: /publication/2022-ScoutCT-Net-2
 excerpt: 'ScoutCT-Net ...'
 date: 2021-12

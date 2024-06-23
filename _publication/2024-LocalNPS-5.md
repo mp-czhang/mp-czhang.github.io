@@ -1,6 +1,6 @@
 ---
 title: "Noise power spectrum (NPS) in computed tomography: Enabling local NPS measurement without stationarity and ergodicity assumptions"
-collection: publications
+collection: publication
 permalink: /publication/2024-LocalNPS-5
 excerpt: 'NPS ...'
 date: 2024-5
