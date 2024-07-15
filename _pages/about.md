@@ -54,7 +54,8 @@ redirect_from:
 
 ## Me in Academia 🎓
 
-I am currently a Medical Physics Resident (PGY-2) undergoing clinical training at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
+I am a Medical Physics Resident (PGY-2) undergoing clinical training at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
+<span class="highlight">I am currently open to the job market 2024-2025 for a faculty position.</span>
 
 ### During my PhD 🎓
 I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI.
@@ -67,7 +68,8 @@ I have a special interest in state-of-the-art AI, such as reinforcement learning
 
 ## Me in Personal Life 🎶
 
-I am married to my talented I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀.
+I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀.
+
 
 <div class="section-title">Education 📚</div>
 
