@@ -8,6 +8,7 @@ date: 2024-5-4
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/NPS1.pdf'
 citation: 'Zhang, Chengzhu, et al. "Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition." Medical physics (2024).'
+keywords: ['Patient-specific image quality assessment', 'photon-counting CT', 'Classic mathematics for CT image reconstruction']
 ---
 
 ## Background
