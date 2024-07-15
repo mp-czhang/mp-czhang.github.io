@@ -3,10 +3,10 @@ title: "(Editor's Choice) Noise power spectrum (NPS) in computed tomography: Ena
 collection: publication
 permalink: /publication/2024-LocalNPS-5
 authorship: 'first'
-excerpt: 'This paper serves as the foundational paper for accurate and robust noise power spectrum (NPS) measurement. It challenged the dogma of conventional NPS measurement by proposing a completely differnt pathway. This paper pointed out that the conventional way can be decomposed into diagonal and off-diagonal contributions. Is is the diagonal component that contributes to the meaningful signal while the off-diagonal component can contribute to purely noise if the detector correlation can be measured to be low.'
+excerpt: 'This paper serves as the foundational paper for accurate and robust noise power spectrum (NPS) measurement. It challenged the dogma of conventional NPS measurement by proposing a completely differnt pathway. This paper pointed out that the conventional way can be decomposed into diagonal and off-diagonal contributions. It is the diagonal component that contributes to the meaningful signal while the off-diagonal component can contribute to purely noise if the detector correlation can be measured to be low.'
 date: 2024-5-6
 venue: 'Medical physics'
-paperurl: 'http://mp-czhang.github.io/files/paper1.pdf'
+paperurl: 'http://mp-czhang.github.io/files/NPS2.pdf'
 citation: 'Zhang, Chengzhu, et al. "Noise power spectrum (NPS) in computed tomography: Enabling local NPS measurement without stationarity and ergodicity assumptions." Medical Physics (2024).'
 ---
 

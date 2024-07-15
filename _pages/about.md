@@ -55,7 +55,7 @@ redirect_from:
 ## Me in Academia 🎓
 
 I am a Medical Physics Resident (PGY-2) undergoing [residency training](https://sites.rutgers.edu/cinj-radiation-oncology/medical-physics-residency/) at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
-> **I am currently open to the job market 2024-2025 for a faculty position.**
+> **I am currently open to a faculty position starting June/July 2025**
 
 ### During my PhD 🎓
 I received extensive training in [AI-based x-ray CT reconstruction](/research/research-1), [interior problem](/research/research-2), and [patiant-specific quantitative image quality assessment](/research/research-3). Among them, I have published 5 first-authored, peer-reviewed [journal papers](/publications), 1 book chapter, 13 oral presentations and numerous conference proceedings. Additionally, I have significant experience in [x-ray imaging classification], [perfusion imaging](/research/research-4), and [accelerated MRI]. These works were presented as first-author conference papers or published as co-authors papers.
