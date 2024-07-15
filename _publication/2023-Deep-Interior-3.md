@@ -11,7 +11,7 @@ citation: 'Zhang, Chengzhu, and Guang‐Hong Chen. "Deep‐Interior: A new pathw
 keywords: ['Interior Problem', 'Backprojection filtering for divergent beam geometry']
 ---
 
-## ackground
+## Background
 In recent years, deep learning strategies have been combined with either the filtered backprojection or iterative methods or the direct projection-to-image by deep learning only to reconstruct images. Some of these methods can be applied to address the interior reconstruction problems for centered regions of interest (ROIs) with fixed sizes. Developing a method to enable interior tomography with arbitrarily located ROIs with nearly arbitrary ROI sizes inside a scanning field of view (FOV) remains an open question.
 
 ## Purpose
