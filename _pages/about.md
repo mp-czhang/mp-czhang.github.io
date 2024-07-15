@@ -54,23 +54,23 @@ redirect_from:
 
 ## Me in Academia 🎓
 
-I am a Medical Physics Resident (PGY-2) undergoing clinical training at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
+I am a Medical Physics Resident (PGY-2) undergoing [clinical training](https://sites.rutgers.edu/cinj-radiation-oncology/medical-physics-residency/) at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
 > **I am currently open to the job market 2024-2025 for a faculty position.**
 
 ### During my PhD 🎓
-I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. Among them, I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI. These works were presented as first-author conference papers or published as co-authors papers.
+I received extensive training in [AI-based x-ray CT reconstruction](/_research/research-1.md), [interior problem](/_research/research-2.md), and [patiant-specific quantitative image quality assessment](/_research/research-3.md). Among them, I have published 5 first-authored, peer-reviewed [journal papers](/_pages/publications.md) and 13 oral presentations and numerous conference proceedings. Additionally, I have significant experience in [x-ray imaging classification], [perfusion imaging](/_research/research-4.md), and [accelerated MRI]. These works were presented as first-author conference papers or published as co-authors papers.
 
 ### My Residency 🏥
-My residency has fostered my interest in radiomics-guided radiation therapy. I am closely working with Dr Ke Nie and Dr Matthew Deek on prostate cancer focal and salvage boost radiation therapy. I also developed strong interest to MR-Linac and are closely working with Dr Meral Reyhan to commission the first MR-Linac in the new Sheryl Morris Cancer Center.
+My residency has fostered my interest in [radiomics-guided radiation therapy]. I am closely working with Dr Ke Nie and Dr Matthew Deek on [Habitat radiomics-guided prostate cancer focal and salvage boost radiation therapy] and [PSMA elevated bone oligomets prediction by radio-genomics]. I also developed strong interest to MR-Linac and are closely working with Dr Meral Reyhan to commission the first [MR-Linac] in the new [Sheryl Morris Cancer Center].
 
-While undergoing intensive clinical training, I have also engaged in various clinical projects, including developing institutional VMAT-TBI procedures, utilizing beam-specific dosimetric leaf gap to enhance beam fluence calculation accuracy, and implementing surface-guided imaging for a tattoo-less right breast protocol. These projects have greatly benefited from my ESAPI skills.
+While undergoing intensive clinical training, I have also engaged in various clinical projects to improve patient care, including developing institutional [VMAT-TBI](/_clinical/clinical-TBI.md) procedures, utilizing beam-specific dosimetric leaf gap ([DLG]) to enhance beam fluence calculation accuracy, and implementing surface-guided imaging ([SGRT]) (/_clinical/clinical-.md) for a tattoo-less right breast protocol. These projects have greatly benefited from my [ESAPI] (/_clinical/clinical-ESAPI.md) skills.
 
 ### Beyond My Major Research Work 👀
 I have a special interest in state-of-the-art AI, such as reinforcement learning, diffusion models, and large language models. These fields are well within my skillset and represent potential research directions in the medical physics domain.
 
 ## Me in Personal Life 🎶
 
-I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀 with my friends.
+I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the [Tsinghua High-level Arts Troupe] and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy [working out]💪 and playing [basketball]🏀 with my friends.
 
 
 <div class="section-title">Education 📚</div>

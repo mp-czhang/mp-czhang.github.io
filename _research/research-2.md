@@ -1,5 +1,5 @@
 ---
-title: "Research Interest (II): Quantitative image quality assessment"
+title: "Research Interest (II): Interior Problem"
 excerpt: "NPS <br/><img src='/images/500x300.png'>"
 collection: research
 ---
