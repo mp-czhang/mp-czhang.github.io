@@ -1,5 +1,5 @@
 ---
-title: "(SPIE Best Student Paper) Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition"
+title: "Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition"
 collection: publication
 permalink: /publication/2024-SingleNPS-4
 authorship: 'first'
