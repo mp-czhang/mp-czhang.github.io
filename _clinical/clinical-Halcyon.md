@@ -1,7 +1,6 @@
 ---
 title: "Varian Halycon Annual QA"
 date: 2023-3-1
-excerpt: "Verification of MR-Linac <br/><img src='/images/500x300.png'>"
 order: 8
 collection: clinical
 ---

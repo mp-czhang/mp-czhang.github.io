@@ -1,7 +1,6 @@
 ---
 title: "Varian Truebeam Annual QA"
 date: 2023-6-1
-excerpt: "Annual QA of TB machine <br/><img src='/images/500x300.png'>"
 order: 8
 collection: clinical
 ---
