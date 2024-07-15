@@ -55,10 +55,10 @@ redirect_from:
 ## Me in Academia 🎓
 
 I am a Medical Physics Resident (PGY-2) undergoing clinical training at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
-<span class="highlight">I am currently open to the job market 2024-2025 for a faculty position.</span>
+> **I am currently open to the job market 2024-2025 for a faculty position.**
 
 ### During my PhD 🎓
-I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI.
+I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. Among them, I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI, which were presented as first-author conference papers or published as co-authors papers.
 
 ### My Residency 🏥
 My residency has fostered my interest in radiomics-guided prostate cancer focal and salvage boost radiation therapy. While undergoing intensive clinical training, I have also engaged in various clinical projects, including developing institutional VMAT-TBI procedures, utilizing beam-specific dosimetric leaf gap to enhance beam fluence calculation accuracy, and implementing surface-guided imaging for a tattoo-less right breast protocol. These projects have greatly benefited from my ESAPI skills.
@@ -68,7 +68,7 @@ I have a special interest in state-of-the-art AI, such as reinforcement learning
 
 ## Me in Personal Life 🎶
 
-I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀 with my friends.
+I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀 with my friends.
 
 
 <div class="section-title">Education 📚</div>
@@ -76,7 +76,7 @@ I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-z
 <ul>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
-    <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2019-2023
+    <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2017-2023
     <div class="comment"> 5 first-authored papers, 3  co-author papers, and 13 oral presentations </div>
   </li>
   <li class="timeline-item">
@@ -116,7 +116,7 @@ I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-z
 
   <div class="timeline-item">
     <div class="subsection-title">Visiting Researcher</div>
-    <span class="institution">AIAI Lab, Johns Hopkins University</span> (8/2015 - 7/2017)
+    <span class="institution">Xing Lab, Tsinghua University</span> (8/2015 - 7/2017)
     <br>
     Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Associate Professor</span>
   </div>
