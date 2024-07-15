@@ -97,20 +97,19 @@ author_profile: true
   .timeline-item-content .date {
     color: #999;
     font-size: 14px;
-    margin-top: 10px;
+    margin-bottom: 10px;
   }
 </style>
 
 <div class="timeline">
   {% include base_path %}
-  {% assign sorted_posts = site.clinical | sort: 'order' %}
+  {% assign sorted_posts = site.clinical | sort: 'date' %}
   {% for post in sorted_posts %}
     <div class="timeline-item {% cycle 'left', 'right' %}">
       <div class="timeline-item-content">
+        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
         <h2><a href="{{ base_path }}{{ post.url }}">{{ post.title }}</a></h2>
         <p>{{ post.excerpt | markdownify }}</p>
-        <p>{{ post.content | markdownify }}</p>
-        <span class="date">{{ post.date | date: "%B %d, %Y" }}</span>
       </div>
     </div>
   {% endfor %}

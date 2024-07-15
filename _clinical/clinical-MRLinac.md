@@ -3,9 +3,8 @@ title: "Commissioning of Varian TrueBeam™"
 date: 2024-08-01
 order: 1
 collection: clinical
+excerpt: "This project involves the commissioning of the Varian TrueBeam™ system, ensuring its readiness for clinical use."
 ---
-
-This is an item in your portfolio. It can have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
 
 ## Project Description
 Provide a detailed description of the project here.
