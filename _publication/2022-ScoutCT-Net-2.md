@@ -8,6 +8,7 @@ date: 2021-12-15
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/ScoutNet.pdf'
 citation: 'Montoya, Juan C., et al. "Reconstruction of three‐dimensional tomographic patient models for radiation dose modulation in CT from two scout views using deep learning." Medical physics 49.2 (2022): 901-916.'
+keywords: ['Two-view volumetric reconstruction', 'Fluence modulation']
 ---
 
 ## Background

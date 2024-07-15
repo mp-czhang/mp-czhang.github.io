@@ -8,6 +8,8 @@ date: 2019-4-11
 venue: 'IEEE Transactions on Medical Imaging'
 paperurl: 'http://mp-czhang.github.io/files/iCTNet.pdf'
 citation: 'Li, Yinsheng, et al. "Learning to reconstruct computed tomography images directly from sinogram data under a variety of data acquisition conditions." IEEE transactions on medical imaging 38.10 (2019): 2469-2481.'
+keywords: ['End-to-end AI-driven image reconstruction', 'Interior problem']
 ---
 
+## Abstract
 Computed tomography (CT) is widely used in medical diagnosis and non-destructive detection. Image reconstruction in CT aims to accurately recover pixel values from measured line integrals, i.e., the summed pixel values along straight lines. Provided that the acquired data satisfy the data sufficiency condition as well as other conditions regarding the view angle sampling interval and the severity of transverse data truncation, researchers have discovered many solutions to accurately reconstruct the image. However, if these conditions are violated, accurate image reconstruction from line integrals remains an intellectual challenge. In this paper, a deep learning method with a common network architecture, termed iCT-Net, was developed and trained to accurately reconstruct images for previously solved and unsolved CT reconstruction problems with high quantitative accuracy. Particularly, accurate reconstructions were achieved for the case when the sparse view reconstruction problem (i.e., compressed sensing problem) is entangled with the classical interior tomographic problems.

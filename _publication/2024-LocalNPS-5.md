@@ -8,6 +8,7 @@ date: 2024-5-6
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/NPS2.pdf'
 citation: 'Zhang, Chengzhu, et al. "Noise power spectrum (NPS) in computed tomography: Enabling local NPS measurement without stationarity and ergodicity assumptions." Medical Physics (2024).'
+keywords: ['Local Noise Power Spectrum', 'Experiment Measurement']
 ---
 
 ## Background
