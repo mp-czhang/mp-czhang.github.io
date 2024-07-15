@@ -58,10 +58,12 @@ I am a Medical Physics Resident (PGY-2) undergoing clinical training at Robert W
 > **I am currently open to the job market 2024-2025 for a faculty position.**
 
 ### During my PhD 🎓
-I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. Among them, I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI, which were presented as first-author conference papers or published as co-authors papers.
+I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. Among them, I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI. These works were presented as first-author conference papers or published as co-authors papers.
 
 ### My Residency 🏥
-My residency has fostered my interest in radiomics-guided prostate cancer focal and salvage boost radiation therapy. While undergoing intensive clinical training, I have also engaged in various clinical projects, including developing institutional VMAT-TBI procedures, utilizing beam-specific dosimetric leaf gap to enhance beam fluence calculation accuracy, and implementing surface-guided imaging for a tattoo-less right breast protocol. These projects have greatly benefited from my ESAPI skills.
+My residency has fostered my interest in radiomics-guided radiation therapy. I am closely working with Dr Ke Nie and Dr Matthew Deek on prostate cancer focal and salvage boost radiation therapy. I also developed strong interest to MR-Linac and are closely working with Dr Meral Reyhan to commission the first MR-Linac in the new Sheryl Morris Cancer Center.
+
+While undergoing intensive clinical training, I have also engaged in various clinical projects, including developing institutional VMAT-TBI procedures, utilizing beam-specific dosimetric leaf gap to enhance beam fluence calculation accuracy, and implementing surface-guided imaging for a tattoo-less right breast protocol. These projects have greatly benefited from my ESAPI skills.
 
 ### Beyond My Major Research Work 👀
 I have a special interest in state-of-the-art AI, such as reinforcement learning, diffusion models, and large language models. These fields are well within my skillset and represent potential research directions in the medical physics domain.
