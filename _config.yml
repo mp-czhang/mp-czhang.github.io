@@ -21,7 +21,7 @@ repository               : "mp-czhang/mp-czhang.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpg"
   name             : "Chengzhu Zhang, Ph.D."
   pronouns         : "He/His"  
   bio              : "Meidcal Physics Resident"
