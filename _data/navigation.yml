@@ -5,17 +5,6 @@ main:
   
   - title: "Publications"
     url: /publication/
-        
-  - title: "Research"
-    url: /research/
-
-  - title: "Clinical Experience"
-    url: /clinical/    
-
-  - title: "Talent"
-    url: /talent/    
-
+  
   - title: "Gallery"
     url: /gallery/    
-  
-    
