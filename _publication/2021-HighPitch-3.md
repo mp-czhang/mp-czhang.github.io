@@ -3,7 +3,7 @@ title: "High pitch helical CT reconstruction"
 collection: publication
 permalink: /publication/2021-HighPitch-3
 authorship: 'coauthor'
-excerpt: 'High-Pitch'
+excerpt: 'High-pitch helical CT is a difficult problem consisting of two types of imaging tasks: limited-view reconstruction and sparse-view reconstruction. The reconstruction framework of DL-PICCS developed in my [first-authored paper](publication/2021-DL-PICCS-1.pdf') was used to tackle this problem.'
 date: 2021-5-24
 venue: 'IEEE Transactions on Medical Imaging'
 paperurl: 'http://mp-czhang.github.io/files/highpitch.pdf'

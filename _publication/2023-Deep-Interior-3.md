@@ -8,6 +8,7 @@ date: 2023-12-8
 venue: 'Medical physics'
 paperurl: 'http://mp-czhang.github.io/files/deepinterior.pdf'
 citation: 'Zhang, Chengzhu, and Guang‐Hong Chen. "Deep‐Interior: A new pathway to interior tomographic image reconstruction via a weighted backprojection and deep learning." Medical physics 51.2 (2024): 946-963.'
+keywords: ['Interior Problem', 'Backprojection filtering for divergent beam geometry']
 ---
 
 ## ackground
