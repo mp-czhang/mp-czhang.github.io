@@ -68,7 +68,7 @@ I have a special interest in state-of-the-art AI, such as reinforcement learning
 
 ## Me in Personal Life 🎶
 
-I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀.
+I am married to my talented and lovely wife [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy working out💪 and playing basketball🏀 with my friends.
 
 
 <div class="section-title">Education 📚</div>
