@@ -13,7 +13,7 @@ citation: 'Zhang, Chengzhu, et al. "Experimental measurement of local noise powe
 ## Background
 Accurate noise power spectra (NPS) measurement in clinical X-ray CT exams is challenging due to the need for repeated scans, which expose patients to high radiation risks. A reliable method for single CT acquisition NPS estimation is thus highly desirable.
 
-Purpose
+## Purpose
 To develop a method for estimating local NPS from a single photon counting detector-CT (PCD-CT) acquisition.
 
 ## Methods
