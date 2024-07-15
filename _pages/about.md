@@ -7,29 +7,89 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+  .section-title {
+    font-size: 1.5em;
+    font-weight: bold;
+    color: #2c3e50;
+    margin-top: 2em;
+  }
+
+  .subsection-title {
+    font-size: 1.25em;
+    font-weight: bold;
+    color: #34495e;
+    margin-top: 1.5em;
+  }
+
+  .timeline {
+    margin: 1em 0;
+  }
+
+  .timeline-item {
+    margin-bottom: 1.5em;
+  }
+
+  .institution {
+    font-weight: bold;
+    color: #2980b9;
+  }
+
+  .supervisor {
+    font-style: italic;
+    color: #7f8c8d;
+  }
+</style>
+
+## About Me
+
 I am currently a Medical Physics Resident under training at Robert Wood Johnson University Hospital, affiliated to Rutgers University.
 
-Education
-======
-* Ph.D in University of Wisconsin-Madison, 2019-2023
-* M.S. in University of Wisconsin-Madison, 2017-2019
-* B.S. in Tsinghua University, 2013-2017
-* Exchange student in Georgia Institute of Technolgoy, 2015
+<div class="section-title">Education</div>
 
-Work experience
-======
-* 7/2023 - 6/2024 (expected): Medical Physics Resident
-  * Rutegers Cancer Institute of New Jersey
-  * Supervisor: Ke Nie, Ph.D., Professor
+<ul>
+  <li class="timeline-item">
+    <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2019-2023
+  </li>
+  <li class="timeline-item">
+    <span class="institution">M.S., University of Wisconsin-Madison</span>, 2017-2019
+  </li>
+  <li class="timeline-item">
+    <span class="institution">B.S., Tsinghua University</span>, 2013-2017
+  </li>
+  <li class="timeline-item">
+    <span class="institution">Exchange Student, Georgia Institute of Technology</span>, 2015
+  </li>
+</ul>
 
-* 9/2017 - 6/2024: Graduate Research Assistant
-  * University of Wisconsin-Madison
-  * Supervisor: Guang-Hong Chen, Ph.D., Professor
+<div class="section-title">Work Experience</div>
 
-* 7/2016 - 9/2016: Visiting researcher at AIAI Lab
-  * Johns Hopkins University
-  * Supervisor: Webster J Stayman, Ph.D., Associate Professor
+<div class="timeline">
+  <div class="timeline-item">
+    <div class="subsection-title">Medical Physics Resident</div>
+    <span class="institution">Rutgers Cancer Institute of New Jersey</span> (7/2023 - 6/2024 expected)
+    <br>
+    Supervisor: <span class="supervisor">Ke Nie, Ph.D., Professor</span>
+  </div>
 
-* 8/2015 - 7/2017: Visiting researcher at AIAI Lab
-  * Johns Hopkins University
-  * Supervisor: Yuxiang Xing, Ph.D, Associate Professor
+  <div class="timeline-item">
+    <div class="subsection-title">Graduate Research Assistant</div>
+    <span class="institution">University of Wisconsin-Madison</span> (9/2017 - 6/2024)
+    <br>
+    Supervisor: <span class="supervisor">Guang-Hong Chen, Ph.D., Professor</span>
+  </div>
+
+  <div class="timeline-item">
+    <div class="subsection-title">Visiting Researcher</div>
+    <span class="institution">AIAI Lab, Johns Hopkins University</span> (7/2016 - 9/2016)
+    <br>
+    Supervisor: <span class="supervisor">Webster J Stayman, Ph.D., Associate Professor</span>
+  </div>
+
+  <div class="timeline-item">
+    <div class="subsection-title">Visiting Researcher</div>
+    <span class="institution">AIAI Lab, Johns Hopkins University</span> (8/2015 - 7/2017)
+    <br>
+    Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Associate Professor</span>
+  </div>
+</div>
