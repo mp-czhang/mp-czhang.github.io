@@ -58,12 +58,12 @@ I am a Medical Physics Resident (PGY-2) undergoing [residency training](https://
 > **I am currently open to the job market 2024-2025 for a faculty position.**
 
 ### During my PhD 🎓
-I received extensive training in [AI-based x-ray CT reconstruction](/research/research-1), [interior problem](/research/research-2), and [patiant-specific quantitative image quality assessment](/research/research-3). Among them, I have published 5 first-authored, peer-reviewed [journal papers](/publications) and 13 oral presentations and numerous conference proceedings. Additionally, I have significant experience in [x-ray imaging classification], [perfusion imaging](/research/research-4), and [accelerated MRI]. These works were presented as first-author conference papers or published as co-authors papers.
+I received extensive training in [AI-based x-ray CT reconstruction](/research/research-1), [interior problem](/research/research-2), and [patiant-specific quantitative image quality assessment](/research/research-3). Among them, I have published 5 first-authored, peer-reviewed [journal papers](/publications), 1 book chapter, 13 oral presentations and numerous conference proceedings. Additionally, I have significant experience in [x-ray imaging classification], [perfusion imaging](/research/research-4), and [accelerated MRI]. These works were presented as first-author conference papers or published as co-authors papers.
 
 ### My Residency 🏥
 My residency has fostered my interest in [radiomics-guided radiation therapy]. I am closely working with Dr Ke Nie and Dr Matthew Deek on [Habitat radiomics-guided prostate cancer focal and salvage boost radiation therapy] and [PSMA elevated bone oligomets prediction by radio-genomics]. I also developed strong interest to MR-Linac and are closely working with Dr Meral Reyhan to commission the first [MR-Linac] in the new [Sheryl Morris Cancer Center](https://www.rwjbh.org/blog/2024/january/coming-soon-new-jersey-s-first-freestanding-canc/).
 
-While undergoing intensive clinical training, I have also engaged in various clinical projects to improve patient care, including developing institutional [VMAT-TBI](/clinical/clinical-TBI) procedures, utilizing beam-specific dosimetric leaf gap [DLG](/clinical/clinical-DLG) to enhance beam fluence calculation accuracy, and implementing surface-guided imaging ([SGRT])(/clinical/clinical-SGRT) for a tattoo-less right breast protocol. These projects have greatly benefited from my [ESAPI](/clinical/clinical-ESAPI) skills.
+While undergoing intensive clinical training, I have also engaged in various clinical projects to improve patient care, including developing institutional [VMAT-TBI](/clinical/clinical-TBI) procedures, utilizing beam-specific dosimetric leaf gap [DLG](/clinical/clinical-DLG) to enhance beam fluence calculation accuracy, and implementing surface-guided imaging [SGRT](/clinical/clinical-SGRT) for a tattoo-less right breast protocol. These projects have greatly benefited from my [ESAPI](/clinical/clinical-ESAPI) skills.
 
 ### Beyond My Major Research Work 👀
 I have a special interest in state-of-the-art AI, such as reinforcement learning, diffusion models, and large language models. These fields are well within my skillset and represent potential research directions in the medical physics domain.
@@ -79,7 +79,7 @@ I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangch
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
     <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2017-2023
-    <div class="comment"> 5 first-authored papers, 3  co-author papers, and 13 oral presentations </div>
+    <div class="comment"> 5 first-authored papers, 3  co-author papers, 1 book chapter and 13 oral presentations </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">

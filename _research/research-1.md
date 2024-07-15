@@ -1,6 +1,6 @@
 ---
 title: "Research Interest (1): AI-enabled data-consistent image reconstruction"
-excerpt: Diffusion-weighted imaging <br/><img src='/images/500x300.png'>"
+excerpt: "Diffusion-weighted imaging <br/><img src='/images/500x300.png'>"
 collection: research
 ---
 
