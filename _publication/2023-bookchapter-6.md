@@ -22,3 +22,5 @@ pages: "114-165"
 **Pages:** 114-165
 
 **Publisher:** Cambridge University Press
+
+**Book Sample:** First three pages of the book chapter can be accessed [here](paperurl: 'http://mp-czhang.github.io/files/book.pdf')
