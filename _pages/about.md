@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me"
+title: "This is ME!"
 author_profile: true
 redirect_from: 
   - /about/
@@ -41,18 +41,28 @@ redirect_from:
   }
 </style>
 
-## About Me
+## Me in Academia 🎓
 
-I am currently a Medical Physics Resident under training at Robert Wood Johnson University Hospital, affiliated to Rutgers University.
+I am currently a Medical Physics Resident (PGY-2) undergoing clinical training at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
 
-<div class="section-title">Education</div>
+### During my PhD:
+I received extensive training in AI-based x-ray CT reconstruction, the interior problem, and quantitative image quality assessment. I have published five first-authored, peer-reviewed journal papers. Additionally, I have significant experience in x-ray imaging classification, perfusion imaging, and accelerated MRI.
+
+### My Residency:
+My residency has fostered my interest in radiomics-guided prostate cancer focal and salvage boost radiation therapy. While undergoing intensive clinical training, I have also engaged in various clinical projects, including developing institutional VMAT-TBI procedures, utilizing beam-specific dosimetric leaf gap to enhance beam fluence calculation accuracy, and implementing surface-guided imaging for a tattoo-less right breast protocol. These projects have greatly benefited from my ESAPI skills.
+
+### Beyond My Major Research Work:
+I have a special interest in state-of-the-art AI, such as reinforcement learning, diffusion models, and large language models. These fields are well within my skillset and represent potential research directions in the medical physics domain.
+
+## Me in Personal Life 🎶🏀
+
+I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua High-level Arts Troupe and participated in numerous concerts. Recently, I have also taken up the piano, developing a wide-ranging repertoire. Besides music, I enjoy working out and playing basketball.
+
+<div class="section-title">Education 📚</div>
 
 <ul>
   <li class="timeline-item">
     <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2019-2023
-  </li>
-  <li class="timeline-item">
-    <span class="institution">M.S., University of Wisconsin-Madison</span>, 2017-2019
   </li>
   <li class="timeline-item">
     <span class="institution">B.S., Tsinghua University</span>, 2013-2017
@@ -62,7 +72,7 @@ I am currently a Medical Physics Resident under training at Robert Wood Johnson 
   </li>
 </ul>
 
-<div class="section-title">Work Experience</div>
+<div class="section-title">Work Experience 💼</div>
 
 <div class="timeline">
   <div class="timeline-item">
