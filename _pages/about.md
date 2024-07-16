@@ -80,7 +80,7 @@ I am passionate about musical instruments. I have played the accordion since chi
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
     <span class="institution">Ph.D., University of Wisconsin-Madison</span>, 2017-2023
-    <div class="comment"> 5 first-authored papers, 3  co-author papers, 1 book chapter and 13 oral presentations </div>
+    <div class="comment"> 5 first-authored papers, 3 co-author papers, 1 book chapter and 13 oral presentations </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
