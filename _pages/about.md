@@ -55,18 +55,17 @@ redirect_from:
 ## Me in Academia 🎓
 
 I am a Medical Physics Resident (PGY-2) undergoing [residency training](https://sites.rutgers.edu/cinj-radiation-oncology/medical-physics-residency/) at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. 
-> **I am currently open to a faculty position starting June/July 2025**
+> **I am currently open to a faculty position starting 📆 June/July 2025**
 
 ### During my PhD 🎓
 I received extensive training in [AI-based x-ray CT reconstruction](/research/research-1), [interior problem](/research/research-2), and [patiant-specific quantitative image quality assessment](/research/research-3). Among them, I have published 5 first-authored, peer-reviewed [journal papers](/publication), 1 book chapter, 13 oral presentations and numerous conference proceedings. Additionally, I have significant experience in [x-ray imaging classification], [perfusion imaging](/research/research-4), and [accelerated MRI]. These works were presented as first-author conference papers or published as co-authors papers.
 
-### My Residency 🏥
+### During my Residency 🏥
 My residency has fostered my interest in [radiomics-guided radiation therapy]. I am closely working with Dr Ke Nie and Dr Matthew Deek on [Habitat radiomics-guided prostate cancer focal and salvage boost radiation therapy] and [PSMA elevated bone oligomets prediction by radio-genomics]. I also developed strong interest to MR-Linac and are closely working with Dr Meral Reyhan to commission the first [MR-Linac] in the new [Sheryl Morris Cancer Center](https://www.rwjbh.org/blog/2024/january/coming-soon-new-jersey-s-first-freestanding-canc/).
 
 While undergoing intensive clinical training (see my [timeline](/clinical)), I have also engaged in various clinical projects to improve patient care, including developing institutional [VMAT-TBI](/clinical/clinical-TBI) procedures, utilizing beam-specific dosimetric leaf gap [DLG](/clinical/clinical-DLG) to enhance beam fluence calculation accuracy, and implementing surface-guided imaging [SGRT](/clinical/clinical-SGRT) for a tattoo-less right breast protocol. These projects have greatly benefited from my [ESAPI](/clinical/clinical-ESAPI) skills.
 
-### Beyond My Major Research Work 👀
-I have a special interest in state-of-the-art AI, such as reinforcement learning, diffusion models, and large language models. These fields are well within my skillset and represent potential research directions in the medical physics domain.
+Apart from the busy training schedule residency, I started a 📷[instagram page](https://www.instagram.com/nbmedphys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) and created a 📌customized [google map](https://www.google.com/maps/d/edit?mid=1BZHwVmbjk2Ad-1wKqSe_PJH9om_h5Fs&usp=sharing) for my coresidents.
 
 ## Me in Personal Life 🎶
 
