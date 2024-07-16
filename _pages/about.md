@@ -71,7 +71,6 @@ Apart from the busy training schedule residency, I started a 📷[instagram page
 I am serving associate editor appointment✒️ in Medical Physics Editorial Board (MPEB) of AAPM starting 1/1/2023. I am actively reviewing papers for 📘[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209), 📗[Physics in Medicine & Biology](https://iopscience.iop.org/journal/0031-9155), 📕[the Red Journal](https://www.redjournal.org/), 📓[Transactions of Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), 📔[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology), 📒[Journal of Medical Imaging](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging#_=_).
 
 ## Me in Personal Life 🎶
-
 I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the [Tsinghua High-level Arts Troupe] and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy [working out]💪 and playing [basketball]🏀 with my friends.
 
 
@@ -106,7 +105,7 @@ I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangch
 
   <div class="timeline-item">
     <div class="subsection-title">Associate Editor</div>
-    <span class="institution">Editorial Board of AAPM</span> (1/2023 - 12/31/2025)
+    <span class="institution">Editorial Board of AAPM</span> (1/2023 - 12/31/2025 expected)
     <br>
     Supervisor: <span class="supervisor">John Boone, Ph.D., Professor</span>
   </div>
