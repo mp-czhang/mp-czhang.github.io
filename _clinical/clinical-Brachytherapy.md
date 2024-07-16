@@ -1,8 +1,6 @@
 ---
 title: "Brachytherapy"
 date: 2024-4-23
-order: 7
+excerpt: ""During my three-month brachytherapy rotation, I had a comprehensive training in GYN brachytherapy, GU and breast brachytherapy. The involved treatment modality includes cylinder, multi-channel cylinder, T&O, T&R, Interstitial, prostate HDR, prostate LDR and breast SAVI"
 collection: clinical
 ---
-
-GYN and GU.

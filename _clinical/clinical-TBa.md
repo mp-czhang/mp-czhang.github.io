@@ -1,8 +1,6 @@
 ---
 title: "Varian Truebeam Annual QA"
 date: 2023-6-1
-order: 8
+excerpt: "I independently finished all the mechanical part of Truebeam annual QA and finished the dosimetry part under the supervision of Dr Taoran Cui. I learned to use the large water tank to perform TG-51 and beam profile scan."
 collection: clinical
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 

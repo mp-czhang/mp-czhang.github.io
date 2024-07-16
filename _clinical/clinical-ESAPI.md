@@ -1,8 +1,6 @@
 ---
-title: "Proficient in ESAPI"
-date: 2023-3-1
-excerpt: "This project involves the commissioning of the Varian TrueBeam™ system, ensuring its readiness for clinical use."
+title: "Being proficient in ESAPI"
+date: 2023-9-1
+excerpt: "ESAPI is a special programming tool for clinical development of ARIA, ECLIPSE and Portal dosimetry developed by Varian. I proficiently mastered ESAPI in my basic treatment planning rotation and benefited my rotation and research work."
 collection: clinical
 ---
-
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
