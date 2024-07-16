@@ -102,6 +102,16 @@ I am passionate about musical instruments. I have played the accordion since chi
     <span class="duration">(7/2023 - 6/2024 expected)</span>
     <br>
     Supervisor: <span class="supervisor">Ke Nie, Ph.D., Professor</span>
+    <div class="description">Receiving comprehensive clinical training; Focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
+  </li>
+
+  <li class="timeline-item">
+    <div class="subsection-title">Associate Editor</div>
+    <span class="institution">Editorial Board of AAPM</span>
+    <span class="duration">(1/2023 - 12/2025 expected)</span>
+    <br>
+    Supervisor: <span class="supervisor">John Boon, Ph.D., Professor</span>
+    <div class="description">Inviting reviewers, making comments and recommendations to the scientific paper submitted to the journal of Medical Physics. </div>
   </li>
 
   <li class="timeline-item">
@@ -110,6 +120,7 @@ I am passionate about musical instruments. I have played the accordion since chi
     <span class="duration">(9/2017 - 6/2024)</span>
     <br>
     Supervisor: <span class="supervisor">Guang-Hong Chen, Ph.D., Professor</span>
+    <div class="description"> Lead research on a variety of imaging tasks, including AI-based image reconstruction, patient-specific image quality assessment </div>
   </li>
 
   <li class="timeline-item">
@@ -118,13 +129,15 @@ I am passionate about musical instruments. I have played the accordion since chi
     <span class="duration">(7/2016 - 9/2016)</span>
     <br>
     Supervisor: <span class="supervisor">Webster J Stayman, Ph.D., Associate Professor</span>
+    <div class="description">Extended the prior constrained compressed sensing method by eliminating the need for the prior model for imaging of surgical implants free of metal artifacts.</div>
   </li>
 
   <li class="timeline-item">
-    <div class="subsection-title">Visiting Researcher</div>
+    <div class="subsection-title">Undergraduate Researcher</div>
     <span class="institution">Xing Lab, Tsinghua University</span>
     <span class="duration">(8/2015 - 7/2017)</span>
     <br>
-    Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Associate Professor</span>
+    Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Professor</span>
+    <div class="description">Developed an AI-based reconstruction method for artifact-free high-quality dental CT imaging; Used image-domain AI models to eliminate physics-induced image quality degradation</div>
   </li>
 </ul>
