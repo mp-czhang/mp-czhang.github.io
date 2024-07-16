@@ -102,6 +102,13 @@ I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangch
   </div>
 
   <div class="timeline-item">
+    <div class="subsection-title">Associate Editor</div>
+    <span class="institution">Editorial Board of AAPM</span> (1/2023 - 12/31/2025)
+    <br>
+    Supervisor: <span class="supervisor">John Boone, Ph.D., Professor</span>
+  </div>
+
+  <div class="timeline-item">
     <div class="subsection-title">Graduate Research Assistant</div>
     <span class="institution">University of Wisconsin-Madison</span> (9/2017 - 6/2024)
     <br>
