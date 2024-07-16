@@ -110,21 +110,51 @@ author_profile: true
   /* Responsive design for smaller screens */
   @media screen and (max-width: 768px) {
     .timeline::after {
-      left: 90px;
+      left: 50%;
+    }
+
+    .timeline-item {
+      width: 50%;
+    }
+
+    .timeline-item.left {
+      left: 0;
+    }
+
+    .timeline-item.right {
+      left: 50%;
+    }
+
+    .timeline-item::after {
+      left: 50%;
+    }
+
+    .left::after, .right::after {
+      margin-left: -12px;
+    }
+
+    .left::before, .right::before {
+      margin-left: -3px;
+    }
+  }
+
+  @media screen and (max-width: 480px) {
+    .timeline::after {
+      left: 50%;
     }
 
     .timeline-item {
       width: 100%;
-      padding-left: 120px;
+      padding-left: 50px;
       padding-right: 25px;
     }
 
     .timeline-item::after {
-      left: 80px;
+      left: 25px;
     }
 
     .left::before, .right::before {
-      left: 60px;
+      left: 10px;
       border: medium solid #2980b9;
       border-width: 10px 10px 10px 0;
       border-color: transparent #2980b9 transparent transparent;
@@ -132,24 +162,6 @@ author_profile: true
 
     .right {
       left: 0%;
-    }
-  }
-
-  @media screen and (max-width: 480px) {
-    .timeline::after {
-      left: 60px;
-    }
-
-    .timeline-item {
-      padding-left: 80px;
-    }
-
-    .timeline-item::after {
-      left: 50px;
-    }
-
-    .left::before, .right::before {
-      left: 30px;
     }
   }
 </style>
