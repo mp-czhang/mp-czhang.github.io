@@ -125,7 +125,7 @@ I am passionate about musical instruments. I have played the accordion since chi
   </div>
 
   <div class="timeline-item">
-    <div class="subsection-title">Visiting Researcher</div>
+    <div class="subsection-title">Undergraduate Research Assistant</div>
     <span class="institution">Xing Lab, Tsinghua University</span> (8/2015 - 7/2017)
     <br>
     Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Associate Professor</span>
