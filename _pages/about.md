@@ -95,39 +95,36 @@ I am passionate about musical instruments. I have played the accordion since chi
 
 <div class="section-title">Work Experience 💼</div>
 
-<div class="timeline">
-  <div class="timeline-item">
+<ul class="timeline">
+  <li class="timeline-item">
     <div class="subsection-title">Medical Physics Resident</div>
-    <span class="institution">Rutgers Cancer Institute of New Jersey</span> (7/2023 - 6/2024 expected)
+    <span class="institution">Rutgers Cancer Institute of New Jersey</span>
+    <span class="duration">(7/2023 - 6/2024 expected)</span>
     <br>
     Supervisor: <span class="supervisor">Ke Nie, Ph.D., Professor</span>
-  </div>
+  </li>
 
-  <div class="timeline-item">
-    <div class="subsection-title">Associate Editor</div>
-    <span class="institution">Editorial Board of AAPM</span> (1/2023 - 12/31/2025 expected)
-    <br>
-    Supervisor: <span class="supervisor">John Boone, Ph.D., Professor</span>
-  </div>
-
-  <div class="timeline-item">
+  <li class="timeline-item">
     <div class="subsection-title">Graduate Research Assistant</div>
-    <span class="institution">University of Wisconsin-Madison</span> (9/2017 - 6/2024)
+    <span class="institution">University of Wisconsin-Madison</span>
+    <span class="duration">(9/2017 - 6/2024)</span>
     <br>
     Supervisor: <span class="supervisor">Guang-Hong Chen, Ph.D., Professor</span>
-  </div>
+  </li>
 
-  <div class="timeline-item">
+  <li class="timeline-item">
     <div class="subsection-title">Visiting Researcher</div>
-    <span class="institution">AIAI Lab, Johns Hopkins University</span> (7/2016 - 9/2016)
+    <span class="institution">AIAI Lab, Johns Hopkins University</span>
+    <span class="duration">(7/2016 - 9/2016)</span>
     <br>
     Supervisor: <span class="supervisor">Webster J Stayman, Ph.D., Associate Professor</span>
-  </div>
+  </li>
 
-  <div class="timeline-item">
-    <div class="subsection-title">Undergraduate Research Assistant</div>
-    <span class="institution">Xing Lab, Tsinghua University</span> (8/2015 - 7/2017)
+  <li class="timeline-item">
+    <div class="subsection-title">Visiting Researcher</div>
+    <span class="institution">Xing Lab, Tsinghua University</span>
+    <span class="duration">(8/2015 - 7/2017)</span>
     <br>
     Supervisor: <span class="supervisor">Yuxiang Xing, Ph.D., Associate Professor</span>
-  </div>
-</div>
+  </li>
+</ul>
