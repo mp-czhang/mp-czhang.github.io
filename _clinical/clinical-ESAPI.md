@@ -1,6 +1,7 @@
 ---
 title: "Proficient in ESAPI"
-order: 5
+date: 2023-3-1
+excerpt: "This project involves the commissioning of the Varian TrueBeam™ system, ensuring its readiness for clinical use."
 collection: clinical
 ---
 

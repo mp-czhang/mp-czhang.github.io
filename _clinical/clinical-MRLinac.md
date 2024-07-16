@@ -1,7 +1,6 @@
 ---
 title: "Commissioning of Varian TrueBeam™"
-date: 2024-08-01
-order: 1
+date: 2024-08-12
 collection: clinical
 excerpt: "This project involves the commissioning of the Varian TrueBeam™ system, ensuring its readiness for clinical use."
 ---
