@@ -67,8 +67,7 @@ While undergoing intensive clinical training (see my [timeline](/clinical)), I h
 
 Apart from the busy training schedule residency, I started a 📷[instagram page](https://www.instagram.com/nbmedphys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) and created a 📌customized [google map](https://www.google.com/maps/d/edit?mid=1BZHwVmbjk2Ad-1wKqSe_PJH9om_h5Fs&usp=sharing) for my coresidents.
 
-### Peer-review Experience 🏥
-I am serving associate editor appointment✒️ in Medical Physics Editorial Board (MPEB) of AAPM starting 1/1/2023. I am actively reviewing papers for 📘[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209), 📗[Physics in Medicine & Biology](https://iopscience.iop.org/journal/0031-9155), 📕[the Red Journal](https://www.redjournal.org/), 📓[Transactions of Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), 📔[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology), 📒[Journal of Medical Imaging](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging#_=_).
+
 
 ## Me in Personal Life 🎶
 I am married to my talented and lovely wife 💌 [Hangcheng Zhao](https://hangcheng-zhao.github.io/), who is also looking for a faculty position this semester. I am passionate about musical instruments. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the [Tsinghua High-level Arts Troupe] and participated in numerous concerts. Recently, I have also taken up the piano 🎹, developing a wide-ranging repertoire. Besides music, I enjoy [working out]💪 and playing [basketball]🏀 with my friends.
