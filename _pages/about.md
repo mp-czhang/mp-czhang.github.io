@@ -110,7 +110,7 @@ I am passionate about musical instruments. I have played the accordion since chi
     <span class="institution">Editorial Board of AAPM</span>
     <span class="duration">(1/2023 - 12/2025 expected)</span>
     <br>
-    Supervisor: <span class="supervisor">John Boon, Ph.D., Professor</span>
+    Supervisor: <span class="supervisor">John Boon, Ph.D., Professor and Stanley H. Benedict, PhD</span>
     <div class="description">Inviting reviewers, making comments and recommendations to the scientific paper submitted to the journal of Medical Physics. </div>
   </li>
 
