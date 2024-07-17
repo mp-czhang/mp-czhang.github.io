@@ -1,0 +1,5 @@
+images:
+  - title: "Image 1"
+    image_path: "images/foo-bar-identity-th.jpg"
+    url: "images/foo-bar-identity-th.jpg"
+    alt: "Description of Image 1"
