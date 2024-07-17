@@ -34,7 +34,7 @@
       {% endif %}
     </h2>
 
-    <p class="publication-meta">1
+    <p class="publication-meta">
       {% if post.collection == 'teaching' %}
         {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
       {% elsif post.collection == 'publications' %}
