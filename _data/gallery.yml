@@ -9,32 +9,32 @@ images:
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 3"
     image_path: "/images/site-logo.png"
     url: "/images/site-logo.png"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 4"
     image_path: "/images/foo-bar-identity-th.jpg"
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 5"
     image_path: "/images/foo-bar-identity-th.jpg"
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 6"
     image_path: "/images/foo-bar-identity-th.jpg"
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 7"
     image_path: "/images/foo-bar-identity-th.jpg"
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
 
-  - title: "Image 1"
+  - title: "Image 8"
     image_path: "/images/foo-bar-identity-th.jpg"
     url: "/images/foo-bar-identity-th.jpg"
     alt: "Description of Image 1"
