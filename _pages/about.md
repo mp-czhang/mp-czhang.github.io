@@ -79,17 +79,17 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
 <ul>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
-    <span class="institution">Ph.D., 🏫University of Wisconsin-Madison</span>, 2017-2023
+    <span class="institution">Ph.D., Medical Physics, 🏫University of Wisconsin-Madison</span>, 2017-2023
     <div class="comment"> 5 first-authored papers, 3 co-author papers, 1 book chapter, and 13 oral presentations </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
-    <span class="institution">B.S., 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 2013-2017
+    <span class="institution">B.S., Engineering Physics, 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 2013-2017
     <div class="comment"> Ranked 1st/55, graduated with honors (top 30). </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/GIT_Logo.png" alt="Georgia Institute of Technology" class="logo">
-    <span class="institution">Exchange Student, 🏫Georgia Institute of Technology</span>, 2015
+    <span class="institution">Exchange Student, Electrical and Computer Engineering, 🏫Georgia Institute of Technology</span>, 2015
   </li>
 </ul>
 
