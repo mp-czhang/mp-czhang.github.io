@@ -65,7 +65,7 @@ My residency has fostered my interest in 🔹[radiomics-guided radiation therapy
 
 While undergoing intensive clinical training (see my 📆[timeline](/clinical)), I have also engaged in various clinical projects to improve patient care, including 🔸[developing institutional VMAT-TBI](/clinical/clinical-TBI) procedures, 🔸utilizing [beam-specific dosimetric leaf gap DLG](/clinical/clinical-DLG) to enhance beam fluence calculation accuracy, and 🔸implementing [surface-guided imaging SGRT for the tattoo-less right breast RT protocol](/clinical/clinical-SGRT). These projects have greatly benefited from my [ESAPI](/clinical/clinical-ESAPI) skills.
 
-Apart from the busy training schedule residency, I started a 📷[instagram page](https://www.instagram.com/nbmedphys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) and created a customized 📌[google map](https://www.google.com/maps/d/edit?mid=1BZHwVmbjk2Ad-1wKqSe_PJH9om_h5Fs&usp=sharing) for my coresidents.
+Apart from the busy training schedule residency, I started a 📷[instagram page](https://www.instagram.com/nbmedphys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) for the program and created a customized 📌[google map](https://www.google.com/maps/d/edit?mid=1BZHwVmbjk2Ad-1wKqSe_PJH9om_h5Fs&usp=sharing) for my coresidents.
 
 ### Academic Service 🏥
 I am serving associate editor appointment✒️ in [Medical Physics Editorial Board (MPEB)](https://www.aapm.org/org/structure/default.asp?committee_code=MPBAE) of AAPM starting 1/1/2023. I am actively reviewing papers (over 80 times) for 📘[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209), 📗[Physics in Medicine & Biology](https://iopscience.iop.org/journal/0031-9155), 📕[the Red Journal](https://www.redjournal.org/), 📓[Transactions of Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), 📔[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology), 📒[Journal of Medical Imaging](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging#_=_).
@@ -80,12 +80,12 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
     <span class="institution">Ph.D., 🏫University of Wisconsin-Madison</span>, 2017-2023
-    <div class="comment"> 5 first-authored papers, 3 co-author papers, 1 book chapter and 13 oral presentations </div>
+    <div class="comment"> 5 first-authored papers, 3 co-author papers, 1 book chapter, and 13 oral presentations </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
     <span class="institution">B.S., 🏫[Tsinghua University](https://www.usnews.com/education/best-global-universities/china)</span>, 2013-2017
-    <div class="comment"> Ranked 1st/55， graduated with honors (top 30). </div>
+    <div class="comment"> Ranked 1st/55, graduated with honors (top 30). </div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/GIT_Logo.png" alt="Georgia Institute of Technology" class="logo">
@@ -102,7 +102,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="duration">(7/2023 - 6/2024 expected)</span>
     <br>
     Supervisor: <span class="supervisor">[Ke Nie](https://scholar.google.com/citations?user=1BKalcwAAAAJ&hl=en), Ph.D., Professor</span>
-    <div class="description">Receiving comprehensive clinical training; Focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
+    <div class="description">Receiving comprehensive clinical training; focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
   </li>
 
   <li class="timeline-item">
@@ -120,7 +120,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="duration">(9/2017 - 6/2024)</span>
     <br>
     Supervisor: <span class="supervisor">[Guang-Hong Chen](https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en), Ph.D., Professor</span>
-    <div class="description"> Lead research on a variety of imaging tasks, including AI-based image reconstruction, patient-specific image quality assessment </div>
+    <div class="description">Leading research on a variety of imaging tasks, including AI-based image reconstruction, patient-specific image quality assessment.</div>
   </li>
 
   <li class="timeline-item">
@@ -128,7 +128,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">AIAI Lab, Johns Hopkins University</span>
     <span class="duration">(7/2016 - 9/2016)</span>
     <br>
-    Supervisor: <span class="supervisor">[J Webster Stayman](https://scholar.google.com/citations?user=pn8ZDP4AAAAJ&hl=en), Ph.D., Associate Professor</span>
+    Supervisor: <span class="supervisor">[J. Webster Stayman](https://scholar.google.com/citations?user=pn8ZDP4AAAAJ&hl=en), Ph.D., Associate Professor</span>
     <div class="description">Extended the prior constrained compressed sensing method by eliminating the need for the prior model for imaging of surgical implants free of metal artifacts.</div>
   </li>
 
@@ -138,6 +138,6 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="duration">(8/2015 - 7/2017)</span>
     <br>
     Supervisor: <span class="supervisor">[Yuxiang Xing](https://scholar.google.com/citations?user=iWsEXE0AAAAJ&hl=zh-CN), Ph.D., Professor</span>
-    <div class="description">Developed an AI-based reconstruction method for artifact-free high-quality dental CT imaging; Used image-domain AI models to eliminate physics-induced image quality degradation</div>
+    <div class="description">Developed an AI-based reconstruction method for artifact-free high-quality dental CT imaging; used image-domain AI models to eliminate physics-induced image quality degradation.</div>
   </li>
 </ul>
