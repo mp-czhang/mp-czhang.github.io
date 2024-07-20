@@ -84,7 +84,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
-    <span class="institution">B.S., 🏫[Tsinghua University](https://www.usnews.com/education/best-global-universities/china)</span>, 2013-2017
+    <span class="institution">B.S., 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 2013-2017
     <div class="comment"> Ranked 1st/55, graduated with honors (top 30). </div>
   </li>
   <li class="timeline-item">
@@ -101,7 +101,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">Rutgers Cancer Institute of New Jersey</span>
     <span class="duration">(7/2023 - 6/2024 expected)</span>
     <br>
-    Supervisor: <span class="supervisor">[Ke Nie](https://scholar.google.com/citations?user=1BKalcwAAAAJ&hl=en), Ph.D., Professor</span>
+    Supervisor: <span class="supervisor"><a href="https://scholar.google.com/citations?user=1BKalcwAAAAJ&hl=en">Ke Nie</a>, Ph.D., Professor</span>
     <div class="description">Receiving comprehensive clinical training; focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
   </li>
 
@@ -110,7 +110,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">Editorial Board of AAPM</span>
     <span class="duration">(1/2023 - 12/2025 expected)</span>
     <br>
-    Supervisor: <span class="supervisor">John Boon, Ph.D., Professor and Stanley H. Benedict, PhD</span>
+    Supervisor: <span class="supervisor">John Boon, Ph.D., Professor and Stanley H. Benedict, Ph.D.</span>
     <div class="description">Inviting reviewers, making comments and recommendations to the scientific paper submitted to the journal of Medical Physics. </div>
   </li>
 
@@ -119,7 +119,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">University of Wisconsin-Madison</span>
     <span class="duration">(9/2017 - 6/2024)</span>
     <br>
-    Supervisor: <span class="supervisor">[Guang-Hong Chen](https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en), Ph.D., Professor</span>
+    Supervisor: <span class="supervisor"><a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Guang-Hong Chen</a>, Ph.D., Professor</span>
     <div class="description">Leading research on a variety of imaging tasks, including AI-based image reconstruction, patient-specific image quality assessment.</div>
   </li>
 
@@ -128,7 +128,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">AIAI Lab, Johns Hopkins University</span>
     <span class="duration">(7/2016 - 9/2016)</span>
     <br>
-    Supervisor: <span class="supervisor">[J. Webster Stayman](https://scholar.google.com/citations?user=pn8ZDP4AAAAJ&hl=en), Ph.D., Associate Professor</span>
+    Supervisor: <span class="supervisor"><a href="https://scholar.google.com/citations?user=pn8ZDP4AAAAJ&hl=en">J. Webster Stayman</a>, Ph.D., Associate Professor</span>
     <div class="description">Extended the prior constrained compressed sensing method by eliminating the need for the prior model for imaging of surgical implants free of metal artifacts.</div>
   </li>
 
@@ -137,7 +137,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <span class="institution">Xing Lab, Tsinghua University</span>
     <span class="duration">(8/2015 - 7/2017)</span>
     <br>
-    Supervisor: <span class="supervisor">[Yuxiang Xing](https://scholar.google.com/citations?user=iWsEXE0AAAAJ&hl=zh-CN), Ph.D., Professor</span>
+    Supervisor: <span class="supervisor"><a href="https://scholar.google.com/citations?user=iWsEXE0AAAAJ&hl=zh-CN">Yuxiang Xing</a>, Ph.D., Professor</span>
     <div class="description">Developed an AI-based reconstruction method for artifact-free high-quality dental CT imaging; used image-domain AI models to eliminate physics-induced image quality degradation.</div>
   </li>
 </ul>
