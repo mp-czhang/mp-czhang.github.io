@@ -67,7 +67,7 @@ While undergoing intensive clinical training (see my 📆[timeline](/clinical)),
 
 Apart from the busy training schedule residency, I started a 📷[instagram page](https://www.instagram.com/nbmedphys?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==) for the program and created a customized 📌[google map](https://www.google.com/maps/d/edit?mid=1BZHwVmbjk2Ad-1wKqSe_PJH9om_h5Fs&usp=sharing) for my coresidents.
 
-### Academic Service 🏥
+### Academic Service 📧
 I am serving associate editor appointment✒️ in [Medical Physics Editorial Board (MPEB)](https://www.aapm.org/org/structure/default.asp?committee_code=MPBAE) of AAPM starting 1/1/2023. I am actively reviewing papers (over 80 times) for 📘[Medical Physics](https://aapm.onlinelibrary.wiley.com/journal/24734209), 📗[Physics in Medicine & Biology](https://iopscience.iop.org/journal/0031-9155), 📕[the Red Journal](https://www.redjournal.org/), 📓[Transactions of Computational Imaging](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852), 📔[Frontiers in Oncology](https://www.frontiersin.org/journals/oncology), 📒[Journal of Medical Imaging](https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging#_=_).
 
 ## Me in Personal Life 🎶
