@@ -1,5 +1,5 @@
 ---
-title: "Research Interest (1): AI-enabled data-consistent image reconstruction"
+title: "Research Interest (I): AI-enabled data-consistent image reconstruction"
 excerpt: ""
 collection: research
 ---
