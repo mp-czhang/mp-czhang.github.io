@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "This is ME!"
+title: "Chengzhu Zhang - This is ME!"
 author_profile: true
 redirect_from: 
   - /about/
