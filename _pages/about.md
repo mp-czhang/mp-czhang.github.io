@@ -91,7 +91,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
     <span class="institution">B.S., Engineering Physics, 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 9/2013-7/2017
-    <div class="comment">Ranked 1st/55, graduated with honors (top 30)</div>
+    <div class="comment">Ranked 1st/55, graduated with honors (top 1%/3374), national scholarship(top 1%)</div>
     <div class="supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=iWsEXE0AAAAJ&hl=zh-CN">Yuxiang Xing</a>, Ph.D., Professor</div>
   </li>
     <li class="timeline-item">
@@ -101,7 +101,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/GIT_Logo.png" alt="Georgia Institute of Technology" class="logo">
-    <span class="institution">Exchange Student, Electrical and Computer Engineering, 🏫Georgia Institute of Technology</span>, 8/2015-12/2015
+    <span class="institution">Exchange, Electrical and Computer Engineering, 🏫Georgia Institute of Technology</span>, 8/2015-12/2015
   </li>
 
 </ul>
