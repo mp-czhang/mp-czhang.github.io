@@ -73,7 +73,7 @@ I am serving associate editor appointment✒️ in [Medical Physics Editorial Bo
 ## Me in Personal Life 🎶
 I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I generously contribute energy to the group but tend to gain energy from doing things alone. My passion about musical instruments has been signifcant part of my life. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua Student Arts Troupe and served the chair of the "Clavier" Accordion team. You can see some of my performances 📺[here](https://www.youtube.com/watch?v=x7G1gQj_ozg) and 📺[here](https://www.youtube.com/watch?v=2bYkOFqpb14). In the past year, I have also taken up the piano 🎹, developing a wide-ranging repertoire such as [Chopin's "Heroic" Polonaise in A flat major Op. 53](https://www.youtube.com/watch?v=aZYYoDDmg8M) and [Listz' Liebestraum No. 3](https://www.youtube.com/watch?v=lhW_tRmpLFs) and etc. Besides music, I enjoy working out💪, [Lesmil's body combat](https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/)✊ and playing basketball🏀 with my friends.
 
-<div class="section-title">Education and Work Experience 📚💼</div>
+<div class="section-title">Education 📚</div>
 
 <ul class="timeline">
   <li class="timeline-item">
