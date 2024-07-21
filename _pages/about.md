@@ -73,28 +73,30 @@ I am serving associate editor appointment✒️ in [Medical Physics Editorial Bo
 ## Me in Personal Life 🎶
 I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I generously contribute energy to the group but tend to gain energy from doing things alone. My passion about musical instruments has been signifcant part of my life. I have played the accordion since childhood, achieving national second place in my age group. In 2013, I joined the Tsinghua Student Arts Troupe and served the chair of the "Clavier" Accordion team. You can see some of my performances 📺[here](https://www.youtube.com/watch?v=x7G1gQj_ozg) and 📺[here](https://www.youtube.com/watch?v=2bYkOFqpb14). In the past year, I have also taken up the piano 🎹, developing a wide-ranging repertoire such as [Chopin's "Heroic" Polonaise in A flat major Op. 53](https://www.youtube.com/watch?v=aZYYoDDmg8M) and [Listz' Liebestraum No. 3](https://www.youtube.com/watch?v=lhW_tRmpLFs) and etc. Besides music, I enjoy working out💪, [Lesmil's body combat](https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/)✊ and playing basketball🏀 with my friends.
 
+<div class="section-title">Education and Work Experience 📚💼</div>
+
 <ul class="timeline">
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Rutgers_University_Logo.png" alt="Rutgers University" class="logo">
-    <span class="institution">Medical Physics Resident, 🏫Rutgers Cancer Institute of New Jersey</span>, 2023-2024 (expected)
+    <span class="institution">Medical Physics Residency, 🏫Rutgers Cancer Institute of New Jersey</span>, 7/2023-6/2024 (expected)
     <div class="supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=1BKalcwAAAAJ&hl=en">Ke Nie</a>, Ph.D., Professor</div>
     <div class="description">Receiving comprehensive clinical training; focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
-    <span class="institution">Ph.D., Medical Physics, 🏫University of Wisconsin-Madison</span>, 2017-2023
+    <span class="institution">Ph.D., Medical Physics, 🏫University of Wisconsin-Madison</span>, 9/2017-6/2023
     <div class="comment">5 first-authored papers, 3 co-author papers, 1 book chapter, and 13 oral presentations</div>
     <div class="supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Guang-Hong Chen</a>, Ph.D., Professor</div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Tsinghua_University_Logo.png" alt="Tsinghua University" class="logo">
-    <span class="institution">B.S., Engineering Physics, 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 2013-2017
+    <span class="institution">B.S., Engineering Physics, 🏫<a href="https://www.usnews.com/education/best-global-universities/china">Tsinghua University</a></span>, 9/2013-7/2017
     <div class="comment">Ranked 1st/55, graduated with honors (top 30)</div>
     <div class="supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=iWsEXE0AAAAJ&hl=zh-CN">Yuxiang Xing</a>, Ph.D., Professor</div>
   </li>
     <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Johns_Hopkins_University_Logo.png" alt="Johns Hopkins University" class="logo">
-    <span class="institution">Visiting Researcher, Biomedical Engineering, 🏫Johns Hopkins University</span>, 2016
+    <span class="institution">Visiting Researcher, Biomedical Engineering, 🏫Johns Hopkins University</span>, 6/2016-9/2016
     <div class="comment">Worked on advanced imaging techniques under the supervision of Dr. Webster Stayman.</div>
   </li>
   <li class="timeline-item">
