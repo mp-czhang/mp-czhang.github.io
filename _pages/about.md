@@ -79,8 +79,8 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Rutgers_University_Logo.png" alt="Rutgers University" class="logo">
     <span class="institution">Medical Physics Residency, 🏫Rutgers Cancer Institute of New Jersey</span>, 7/2023-6/2024 (expected)
+    <div class="comment">Receiving comprehensive clinical training; focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
     <div class="supervisor">Supervisor: <a href="https://scholar.google.com/citations?user=1BKalcwAAAAJ&hl=en">Ke Nie</a>, Ph.D., Professor</div>
-    <div class="description">Receiving comprehensive clinical training; focusing on radiomics-guided prostate cancer focal and salvage boost radiation therapy.</div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Wisconsin_Madison_Logo.png" alt="University of Wisconsin-Madison" class="logo">
@@ -97,7 +97,7 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
     <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Johns_Hopkins_University_Logo.png" alt="Johns Hopkins University" class="logo">
     <span class="institution">Visiting, Biomedical Engineering, 🏫Johns Hopkins University</span>, 6/2016-9/2016
-    <div class="comment">Worked on advanced imaging techniques under the supervision of Dr. Webster Stayman.</div>
+    <div class="comment">Worked on advanced imaging techniques under the supervision of Dr. Webster Stayman and had an oral presentation at SPIE Medical Imaging 2017</div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/GIT_Logo.png" alt="Georgia Institute of Technology" class="logo">
