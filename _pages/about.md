@@ -96,12 +96,12 @@ I am a [INFJ-A](https://www.16personalities.com/infj-personality) type person. I
   </li>
     <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/Johns_Hopkins_University_Logo.png" alt="Johns Hopkins University" class="logo">
-    <span class="institution">Visiting Researcher, Biomedical Engineering, 🏫Johns Hopkins University</span>, 6/2016-9/2016
+    <span class="institution">Visiting, Biomedical Engineering, 🏫Johns Hopkins University</span>, 6/2016-9/2016
     <div class="comment">Worked on advanced imaging techniques under the supervision of Dr. Webster Stayman.</div>
   </li>
   <li class="timeline-item">
     <img src="{{ site.baseurl }}/images/GIT_Logo.png" alt="Georgia Institute of Technology" class="logo">
-    <span class="institution">Exchange Student, Electrical and Computer Engineering, 🏫Georgia Institute of Technology</span>, 2015
+    <span class="institution">Exchange Student, Electrical and Computer Engineering, 🏫Georgia Institute of Technology</span>, 8/2015-12/2015
   </li>
 
 </ul>
