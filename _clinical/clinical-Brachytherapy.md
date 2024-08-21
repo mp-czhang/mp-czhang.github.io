@@ -5,4 +5,4 @@ excerpt: "During my three-month brachytherapy rotation, I had a comprehensive tr
 collection: clinical
 ---
 
-During my three-month brachytherapy rotation, I had a comprehensive training in GYN brachytherapy, GU and breast brachytherapy. The involved treatment modality includes cylinder, multi-channel cylinder, T&O, T&R, Interstitial, prostate HDR, prostate LDR and breast SAVI.
+During my three-month brachytherapy rotation, I had a comprehensive training in GYN brachytherapy, GU and breast brachytherapy. The involved treatment modality includes cylinder, multi-channel cylinder, T&O, T&R, Interstitial, prostate HDR, prostate LDR, prostate salvage HDR and breast SAVI.
