@@ -1,8 +1,8 @@
 ---
 title: "Commissioning of Varian TrueBeam™"
-date: 2024-08-12
-excerpt: "The commissioning of the Varian TrueBeam™ system takes place early August 2024. I will be the leading resident and closely work with Dr Xiao Wang and Dr Irina Vergalasova. We will perform inventory check, the leakage test, radiaiton survey, TG-51 output measurement, beam profile scanning, output verification, the commissioning of conventional lateral TBI, TSET and VMAT-TBI. Stay tuned!"
+date: 2024-09-03
+excerpt: "I am closely working with the physicists to commission the Varian TrueBeam™. During the one-month commissioning, I observed the isolock™ and beam steering. we will perform the inventory check, leakage test, radiaiton survey, acceptance test, TG-51 output measurement, beam profile scanning, spotcheck verification, the commissioning of TSET, conventional TBI, and VMAT-TBI."
 collection: clinical
 ---
 
-The commissioning of the Varian TrueBeam™ system takes place early August 2024. I will be the leading resident and closely work with Dr Xiao Wang and Dr Irina Vergalasova. We will perform inventory check, the leakage test, radiaiton survey, TG-51 output measurement, beam profile scanning, output verification, the commissioning of conventional lateral TBI, TSET and VMAT-TBI. Stay tuned!
+I am closely working with the physicists to commission the Varian TrueBeam™. During the one-month commissioning, I observed the isolock™ and beam steering. we will perform the inventory check, leakage test, radiaiton survey, acceptance test, TG-51 output measurement, beam profile scanning, spotcheck verification, the commissioning of TSET, conventional TBI, and VMAT-TBI.
