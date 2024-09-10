@@ -5,4 +5,4 @@ excerpt: "My proton rotation starts 12/1/2024. Stay tuned！ "
 collection: clinical
 ---
 
-My proton rotation starts 12/1/2024. Stay tuned！
+My proton rotation starts 10/1/2024. Stay tuned！
