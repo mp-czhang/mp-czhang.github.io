@@ -1,8 +1,8 @@
 ---
 title: "Elekta Unity MR-Lianc Commissioning"
 date: 2024-12-31
-excerpt: "The commissioning of Elekta Unity takes place in the new Morris cancer center at the end of 2024. I will be the leading resident and closely work with the leading physicist. The machine has been delivered and installed. The initial survey is scheduled Sep 16, 2024. Stay tuned!"
+excerpt: "The commissioning of Elekta Unity takes place in the new Morris cancer center at the end of 2024. I will be the leading resident and closely work with the leading physicist. The machine has been delivered and installed. I pariticipated in the radiation survey with leading physicists."
 collection: clinical
 --- 
 
-The commissioning of Elekta Unity takes place in the new Morris cancer center at the end of 2024. I will be the leading resident and closely work with the leading physicist. The machine has been delivered and installed. I joined the initial survey on Sep 17, 2024.
+The commissioning of Elekta Unity takes place in the new Morris cancer center at the end of 2024. I will be the leading resident and closely work with the leading physicist. The machine has been delivered and installed. I pariticipated in the radiation survey with leading physicists.
