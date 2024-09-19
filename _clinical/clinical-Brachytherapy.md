@@ -1,8 +1,10 @@
 ---
 title: "Brachytherapy rotation"
 date: 2024-4-23
-excerpt: "During my three-month brachytherapy rotation, I had a comprehensive training in GYN brachytherapy, GU and breast brachytherapy. The involved treatment modality includes cylinder, multi-channel cylinder, T&O, T&R, Interstitial (syed), prostate HDR, prostate LDR, prostate salvage HDR and breast SAVI. "
+excerpt: "I provided independent coverage of brachytherapy for interstitial HDR prostate, vaginal cuff cylinder, multi-channel cylinder, Tandem and Ovoids. I completed procedures of salvage HDR prostate, LDR prostate, and Syed under the supervision of the physicist. I conducted daily, and quarterly QA of the source exchange for Varian Bravo™ machine and performed two annual QA of BK medical transrectal ultrasound."
 collection: clinical
 ---
 
-During my three-month brachytherapy rotation, I had a comprehensive training in GYN brachytherapy, GU and breast brachytherapy. The involved treatment modality includes cylinder, multi-channel cylinder, T&O, T&R, Interstitial (syed), prostate HDR, prostate LDR, prostate salvage HDR and breast SAVI. 
+- I provided independent coverage of brachytherapy for interstitial HDR prostate, vaginal cuff cylinder, multi-channel cylinder, Tandem and Ovoids. I completed procedures of salvage HDR prostate, LDR prostate, and Syed under the supervision of the physicist. 
+- I conducted daily, and quarterly QA of the source exchange for Varian Bravo™ machine and performed two annual QA of BK medical transrectal ultrasound.
+- I learned extensively the oncology knowledge of GYN and GU and the understood the clinical prescriptions and clinical trials. 
