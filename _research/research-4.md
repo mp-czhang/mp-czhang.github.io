@@ -10,7 +10,7 @@ Historically, two orthogonal scout or cone-beam kV images were used to perform p
 
 My pioneering research on two-view reconstruction in diagnostic imaging attracted attention from researchers seeking breakthroughs in image-guided radiation cancer treatment. 
 
-### Notable Citation
+### Notable Citations
 Zhang et al. [12] emphasized the superiority of ScoutCT-NET over related works on the topic of two orthogonal view reconstruction. They applauded the technical contribution of ScoutCT-NET which leveraged a frozen domain transform layer and a refinement network. The paper highlighted that the unique design of ScoutCT-NET produces impressive results in terms of soft-tissue contrast. Due to this reason, this citing work adopted the reconstruction framework from ScoutCT-NET to enhance the soft-tissue visibility which is critical to image guided cancer treatment. They also replaced the domain transform layer in ScoutCT-NET with an offline algorithm to save the computational cost. The extension of ScoutCT-NET enabled the dose calculation and evaluation in broader applications of adaptive image-guided photon and proton radiation therapy. 
 
 The two-view reconstruction method was patented [3.2].

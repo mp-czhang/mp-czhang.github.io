@@ -11,7 +11,7 @@ To address this problem, I leveraged the AI output image as the high-quality pat
 
 My research sparked a series of works that focused on the accuracy and robustness of AI-based image reconstruction models.
 
-### Impact
+### Notable Citations
 DRONE developed by Wu et al [9] was inspired by my work and incorporated additional deep learning prior from CT data into DL-PICCS framework. This citing paper demonstrated that DL-PICCS and DRONE offer better image quality in terms of edge-preserving, feature recovery, and reconstruction accuracy than existing state-of-the-art AI models such as FBPConvNet and HDNet.
 
 A subsequent work DEAR from Wu et al. [10] perform multiple iteration of the enhanced DL-PICCS framework to further improve the CT image quality. It demonstrated that DL-PICCS and DEAR are superior to the state-of-the-art sparse-view CT reconstruction methods such as TVM and FBPConvNet in terms of data consistency, edge-preserving, and feature perseveration.
