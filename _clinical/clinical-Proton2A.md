@@ -1,8 +1,8 @@
 ---
 title: "Proton dosimetry annual QA"
-date: 2023-9-15
-excerpt: "I completed the annual QA in 2023 of the double-scattering proton system and verified all available beam models using the IBA Blue Phantom®. "
+date: 2024-11-1
+excerpt: "I completed the annual QA for Mevion S250™ Proton System using PTW MP3-P 3D water tank and PTW trufix PPC05. I measured PDD, flatness and symmetry of selected proton beams. I also used IBA Matrixx to verify the flatness, symmetry and penumbra. We used the PTW farmer chamber to perform absolute dosimetry and verified the machine output. "
 collection: clinical
 ---
 
-I completed the annual QA for Mevion S250™ Proton System using PTW MP3-P 3D water tank.
+I completed the annual QA for Mevion S250™ Proton System using PTW MP3-P 3D water tank and PTW trufix PPC05. I measured PDD, flatness and symmetry of selected proton beams. I also used IBA Matrixx to verify the flatness, symmetry and penumbra. We used the PTW farmer chamber to perform absolute dosimetry and verified the machine output.
