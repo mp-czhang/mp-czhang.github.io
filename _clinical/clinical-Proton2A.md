@@ -5,4 +5,4 @@ excerpt: "I completed the annual QA in 2023 of the double-scattering proton syst
 collection: clinical
 ---
 
-I completed the annual QA of Mevion S250™ Proton System and verified all available beam models using the IBA Blue Phantom® and PPC05 parallel-plate chamber. I learned how to configure queues for proton PDD scans.
+I completed the annual QA for Mevion S250™ Proton System using PTW MP3-P 3D water tank.
