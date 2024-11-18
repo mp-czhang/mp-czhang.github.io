@@ -18,6 +18,9 @@ A subsequent work DEAR from Wu et al. [10] perform multiple iteration of the enh
 
 In addition, Zhang et al. [11] applied DL-PICCS to the task of dual energy CT under a limited view data condition. The citing paper demonstrated the DL-PICCS provided improved image details by utilizing information in the different energy channels. Moreover, DL-PICCS was significantly superior to the state-of-the-art AI-based limited view angle CT problem, such as SPECIAL, DD-Net on all evaluation metrics.
 
+The application of DL-PICCS to high-pitch helical CT was patented[2.3].
+
+### Reference
 [2.1] Chengzhu Zhang, Yinsheng Li, Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical Physics 48.10 (2021): 5765-5781.
 
 [2.2] Hayes J W, Montoya J, Budde A, et al. High pitch helical CT reconstruction[J]. IEEE Transactions on Medical Imaging, 2021, 40(11): 3077-3088.
@@ -27,3 +30,5 @@ In addition, Zhang et al. [11] applied DL-PICCS to the task of dual energy CT un
 [10] Wu, Weiwen, et al. "Deep embedding-attention-refinement for sparse-view CT reconstruction." IEEE Transactions on Instrumentation and Measurement (2022).
 
 [11] Zhang Y, Hu D, Lyu T, et al. PIE-ARNet: Prior image enhanced artifact removal network for limited-angle DECT[J]. IEEE Transactions on Instrumentation and Measurement, 2022, 72: 1-12.
+
+*Chen G H, Hsieh J. Systems and methods for computed tomography image reconstruction: U.S. Patent 11,908,044[2.3]. 2024-2-20.
