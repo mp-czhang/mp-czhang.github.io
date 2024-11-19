@@ -1,5 +1,5 @@
 ---
-title: "General clinical duties"
+title: "General Clinical Duties"
 date: 2023-7-1
 excerpt: "In my two-year residency, I have contributed significantly to the clinic. As a resident, I shoulder a wide range of responsibilities. *Please click the title for a comprehensive introduction of my clinical duties.*"
 collection: clinical

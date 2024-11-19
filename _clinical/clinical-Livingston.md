@@ -1,5 +1,5 @@
 ---
-title: "Satellite coverage"
+title: "Satellite Coverage"
 date: 2025-1-1
 excerpt: "I will cover RWJBH Banabas Cooperman and learn new modalities such as Elekta VersaHD, Mosaiq and Oncentra, Elekta Nucletron, and Accuray CyberKnife." 
 collection: clinical

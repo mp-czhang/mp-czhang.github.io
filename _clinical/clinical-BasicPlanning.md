@@ -1,5 +1,5 @@
 ---
-title: "Basic treatment planning rotation"
+title: "Basic Treatment Planning Rotation"
 date: 2023-10-15
 excerpt: "During my three-month basic planning rotation, I executed over 60 clinical 3D conformal plans. *Please click the title to know more about my clinical effort!*"
 collection: clinical

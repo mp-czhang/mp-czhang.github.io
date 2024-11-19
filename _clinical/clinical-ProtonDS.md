@@ -1,5 +1,5 @@
 ---
-title: "Proton rotation"
+title: "Proton Rotation"
 date: 2024-10-15
 excerpt: "In my proton rotation, I learned the theoretical and operational principle of Mervion S250™ System installed in our center. During my residency, I completed two annual QA, two monthly QA, and over 30 patient-specific QA, including the MU determination."
 collection: clinical
