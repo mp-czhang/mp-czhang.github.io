@@ -115,7 +115,6 @@ redirect_from:
       <li>🔹 Denoising Diffusiong Probablistic Model</li>
     </ul>
   </li>
-  <p>These works were presented as first-author conference papers or published as co-authors papers. 
 </ul>
 
 <h2 class="subsection-title">During my Residency 🏥</h2>
