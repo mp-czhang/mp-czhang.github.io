@@ -121,7 +121,7 @@ redirect_from:
 <p>Comprehensive clinical training and impactful projects:</p>
 <ul>
   <li>🔸 <a href="/clinical/clinical-TBI">Developing institutional VMAT-TBI procedures</a></li>
-  <li>🔸 <a href="/clinical/clinical-DLG">Enhancing beam fluence calculations with DLG</a></li>
+  <li>🔸 <a href="/clinical/clinical-DLG">Investigation of Beam Field Specific DLG</a></li>
   <li>🔸 <a href="/clinical/clinical-SGRT">Implementing SGRT for tattoo-less right breast RT</a></li>
   <li>🔸 <a href="/clinical/clinical-TB3Commissioning">Commissioning the first TrubeBeam machine in our new cancer center</a></li>
 </ul>
