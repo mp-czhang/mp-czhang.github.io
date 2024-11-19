@@ -1,7 +1,7 @@
 ---
 title: "Machine, QA, Detector Rotation"
 date: 2023-7-15
-excerpt: "During my three-month machine rotation, I delved deep into the foundamental therapeutic and diagnostic physcis. I consolidated my knowledge learned about radiation detection, linear accelerator and dosimetry. I Please click the title for more details! "
+excerpt: "During my three-month machine rotation, I delved deep into the foundamental therapeutic and diagnostic physcis. I consolidated my knowledge learned about radiation detection, linear accelerator and dosimetry. I Please click the title to see what I have learned!"
 collection: clinical
 ---
 

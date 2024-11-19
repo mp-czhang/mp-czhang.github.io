@@ -1,7 +1,7 @@
 ---
 title: "Commissioning of Varian TrueBeam™"
 date: 2024-09-03
-excerpt: "I am closely working with the physicists to commission the very first Varian TrueBeam™ at our new cancer center. I independently operated on the PTW BeamScan® Water tank for beam quality scanning, beam profile scanning, DLG/ELM, and TG-51 output measurement. I designe the annual QA template and drafted the commissioning report. Please click the title to see my contribution!"
+excerpt: "I am closely working with the physicists to commission the very first Varian TrueBeam™ at our new cancer center. I independently operated on the PTW BeamScan® Water tank for beam quality scanning, beam profile scanning, DLG/ELM, and TG-51 output measurement. I designe the annual QA template and drafted the commissioning report. Please click the title to see my major contribution!"
 collection: clinical
 ---
 
