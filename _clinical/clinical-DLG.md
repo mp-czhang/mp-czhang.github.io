@@ -1,7 +1,7 @@
 ---
 title: "Investigation of beam field specific DLG"
 date: 2023-9-12
-excerpt: "I found clinical plans often benefit from a specific DLG value over a universal DLG. Based on a retrospective study of 68 beam fields, each MLC modulated beam fields were found to have different optimal DLG values. Upon my investigation, our clinic implemented two DLG values for treatment planning and clinical dose evaluation. The planning and QA workflow have been significantly improved! Please click the title to know more about this project!"
+excerpt: "I found clinical plans often benefit from a specific DLG value over a universal DLG. Based on a retrospective study of 68 beam fields, each MLC modulated beam fields were found to have different optimal DLG values. Upon my investigation, our clinic implemented two DLG values for treatment planning and clinical dose evaluation. The planning and QA workflow have been significantly improved! *Please click the title to know more about this project!*"
 collection: clinical
 ---
 

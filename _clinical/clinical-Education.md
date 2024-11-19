@@ -1,7 +1,7 @@
 ---
 title: "Educational Lectures"
 date: 2023-7-15s
-excerpt: "Throughout my residency, I’ve had the opportunity to delve into advanced topics and deliver lectures on the weekly physics meeting. You can explore my lecture materials by clicking the title!"
+excerpt: "Throughout my residency, I’ve had the opportunity to delve into advanced topics and deliver lectures on the weekly physics meeting. *You can explore my lecture materials by clicking the title!*"
 collection: clinical
 ---
 

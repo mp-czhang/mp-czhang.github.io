@@ -1,7 +1,7 @@
 ---
 title: "Brachytherapy rotation"
 date: 2024-4-23
-excerpt: "I provided independent coverage of brachytherapy for interstitial HDR prostate, vaginal cuff cylinder, multi-channel cylinder, Tandem and Ovoids. Please click to know more about the interesting cases I encountered during my rotation!"
+excerpt: "I provided independent coverage of brachytherapy for interstitial HDR prostate, vaginal cuff cylinder, multi-channel cylinder, Tandem and Ovoids. *Please click to know more about the interesting cases I encountered during my rotation!*"
 collection: clinical
 ---
 
