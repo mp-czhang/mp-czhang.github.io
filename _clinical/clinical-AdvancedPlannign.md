@@ -1,7 +1,7 @@
 ---
 title: "Advanced Treatment Planning Rotation"
 date: 2024-1-15
-excerpt: "During my three-month advanced planning rotation, I have a comprehensive training on IMRT and SBRT planning over H&N, Shoulder, Lung, Liver, Kidney, GYN, GU. *Please click the title to know more about this brilliant rotation!*"
+excerpt: "During my three-month advanced planning rotation, I have a comprehensive training on IMRT and SBRT planning over H&N, Shoulder, Lung, Liver, Kidney, GYN, GU. **Please click the title to know more about this brilliant rotation!**"
 collection: clinical
 ---
 
