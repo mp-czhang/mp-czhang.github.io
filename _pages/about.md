@@ -170,6 +170,7 @@ redirect_from:
     <ul>
       <li>🎵 <a href="https://www.youtube.com/watch?v=aZYYoDDmg8M">Chopin's "Heroic" Polonaise in A-flat major Op. 53</a></li>
       <li>🎵 <a href="https://www.youtube.com/watch?v=lhW_tRmpLFs">Liszt's Liebestraum No. 3</a></li>
+      <li>🎵 <a href="https://www.youtube.com/watch?v=tvm2ZsRv3C8&ab_channel=thepolonaise">Chopin - Fantaisie-Impromptu (Op. 66)</a></li> 
     </ul>
   </li>
 </ul>
