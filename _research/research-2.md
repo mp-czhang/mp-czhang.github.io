@@ -4,6 +4,8 @@ excerpt: ""
 collection: research
 ---
 
+
+
 I have made fundamental breakthrough to solving the so-called interior tomographic reconstruction problem. This problem has been known notoriously difficult and mathematicians have worked for years to find its solution. While theoretical solution exits given a prior knowledge about the region of interest, the practical solution to this problem appears underdeveloped. I developed a new deep learning-based framework that leverages both mathematical theory and deep learning models.
 
 ### Impact on diagnostic imaging

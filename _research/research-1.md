@@ -4,6 +4,8 @@ excerpt: ""
 collection: research
 ---
 
+
+
 I proposed a quality-assured AI-based tomographic image reconstruction method, termed DL-PICCS, which is a seamless combination of powerful AI models and compressed sensing to ensure the robust performance of AI models on clinical patient data [2.1, 2.2].
 
 My work on this subject is vital because it urges the medical physics community to critically examine the generalizability and robustness of the AI-based tomographic image reconstruction models. I found that not all patient-specific image content can be preserved in AI-generated output images and the performance of the existing AI models was often suboptimal when they are applied to unseen clinical data. Both issues are serious in medical applications and must be addressed before the clinical translation of these AI models.

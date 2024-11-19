@@ -4,6 +4,8 @@ excerpt: ""
 collection: research
 ---
 
+
+
 I developed and evaluated an AI-based COVID-19 pneumonia diagnosis model [1]. I developed an ensemble AI model using multi-center, multi-vendor chest x-ray images that outperformed three radiologists (AUC 0.94 vs 0.85).
 
 ### Notable Citation

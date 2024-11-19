@@ -4,6 +4,8 @@ excerpt: ""
 collection: research
 ---
 
+
+
 My breakthrough work in two orthogonal view tomographic reconstructions with soft-tissue visibility has had a profound impact on both fields of diagnostic imaging and radiation therapy.
 
 Historically, two orthogonal scout or cone-beam kV images were used to perform patient localization and radiation dose modulation. Its performance was limited by the 2D nature without the knowledge of accurate 3D volumetric information. The proposed AI model ScoutCT-NET [1] was trained on millions of clinical data points and addressed the issue by successfully generating 3D volumetric CT images from two orthogonal 2D kV images. In my work, ScoutCT-NET demonstrated significantly improved performance in patient localization, radiation exposure control, and radiation dose modulation. 

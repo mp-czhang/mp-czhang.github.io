@@ -91,29 +91,31 @@ redirect_from:
 
 <h2 class="subsection-title">During my PhD 🎓</h2>
 <ul>
-  <li>Received extensive training under <a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Dr. Guang-Hong Chen</a>.</li>
+  <li>Received rigorous and extensive PhSD training under <a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Dr. Guang-Hong Chen</a>.</li>
   <li>Research specialties:
     <ul>
       <li>🔹 <a href="/research/research-1">Quality-assured AI-based image reconstruction</a></li>
-      <li>🔹 <a href="/research/research-2">Interior tomographic image reconstruction</a></li>
+      <li>🔹 <a href="/research/research-2">Interior Problem</a></li>
       <li>🔹 <a href="/research/research-3">Patient-specific quantitative image quality assessment</a></li>
-      <li>🔹 <a href="/research/research-4">Two-view problem</a></li>
+      <li>🔹 <a href="/research/research-4">Two-view tomographic reconstruction</a></li>
+      <li>🔹 <a href="/research/research-5">Chest X-ray COVID-19 classification</a></li>
     </ul>
   </li>
-  <li>Published: 
+  <li>Notable Publications:
     <ul>
       <li>5 first-authored journal papers 📄</li>
       <li>1 book chapter 🔖</li>
       <li>13 oral presentations 🎤</li>
     </ul>
   </li>
-  <li>Other significant experiences:
+  <li>Significant resaerch experiences:
     <ul>
-      <li>🔹 <a href="/research/research-5">Chest X-ray-based COVID-19 classification</a></li>
-      <li>🔹 Perfusion imaging</li>
-      <li>🔹 Accelerated MRI</li>
+      <li>🔹 Perfusion imaging, CT/CBCT Angiography</li>
+      <li>🔹 Fast/Accelerated MRI</li>
+      <li>🔹 Denoising Diffusiong Probablistic Model</li>
     </ul>
   </li>
+  <p>These works were presented as first-author conference papers or published as co-authors papers. 
 </ul>
 
 <h2 class="subsection-title">During my Residency 🏥</h2>
@@ -122,17 +124,20 @@ redirect_from:
   <li>🔸 <a href="/clinical/clinical-TBI">Developing institutional VMAT-TBI procedures</a></li>
   <li>🔸 <a href="/clinical/clinical-DLG">Enhancing beam fluence calculations with DLG</a></li>
   <li>🔸 <a href="/clinical/clinical-SGRT">Implementing SGRT for tattoo-less right breast RT</a></li>
+  <li>🔸 <a href="/clinical/clinical-TB3Commissioning">Commissioning the first TrubeBeam machine in our new cancer center</a></li>
 </ul>
-<p>Current interests:</p>
+<p>Current clinical research interests:</p>
 <ul>
-  <li>🔹 <a href="/research/research-5">Radiomics-guided radiation therapy</a></li>
-  <li>🔹 Prognostic value of <a href="/images/HabitatProstate1.png">habitat radiomic features</a></li>
-  <li>🔹 Commissioning New Jersey's first <a href="/clinical/clinical-MRLC">MR-Linac</a></li>
+  <li>🔹 Discovering Imaging biomarker for metastatic prostate cancer</li>
+  <li>🔹 Prognostic value of <a href="/images/HabitatProstate1.png">habitat radiomic feature</a> to metastatic prostate cancer</li>
+  <li>🔹 Commissioning the <a href="/clinical/clinical-MRLC">MR-Linac</a> in our new cancer center </li>
 </ul>
+
 
 <div class="divider"></div>
 
 <div class="section-title">Academic Service 📧</div>
+
 <p>I actively contribute to academic journals and conferences:</p>
 <ul>
   <li>Associate Editor appointment ✒️ in <a href="https://www.aapm.org/org/structure/default.asp?committee_code=MPBAE">Medical Physics Editorial Board (MPEB)</a> of AAPM (starting 1/1/2023).</li>
@@ -151,13 +156,31 @@ redirect_from:
 <div class="divider"></div>
 
 <div class="section-title">Me in Life 🎶</div>
-<p>Here’s a glimpse of my passions:</p>
+
+<p>I am an <a href="https://www.16personalities.com/infj-personality">INFJ-A</a> type person. I generously contribute energy to the group but tend to gain energy from doing things alone. My passion for musical instruments has been a significant part of my life:</p>
+
 <ul>
-  <li>Playing musical instruments 🪗🎹</li>
-  <li>Working out 💪</li>
-  <li><a href="https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/">Body combat</a> ✊</li>
-  <li>Playing basketball 🏀</li>
+  <li>
+    <b>Accordion 🎼:</b> I have played the accordion since childhood, achieving 🏆 national second place in my age group. In 2013, I joined the Tsinghua Student Arts Troupe and served as chair of the "Clavier" Accordion team. 
+    <ul>
+      <li>📺 See performances: <a href="https://www.youtube.com/watch?v=x7G1gQj_ozg">Performance 1</a> and <a href="https://www.youtube.com/watch?v=2bYkOFqpb14">Performance 2</a>.</li>
+    </ul>
+  </li>
+  <li>
+    <b>Piano 🎹:</b> Over the past year, I have taken up the piano, developing a wide-ranging repertoire, including:
+    <ul>
+      <li>🎵 <a href="https://www.youtube.com/watch?v=aZYYoDDmg8M">Chopin's "Heroic" Polonaise in A-flat major Op. 53</a></li>
+      <li>🎵 <a href="https://www.youtube.com/watch?v=lhW_tRmpLFs">Liszt's Liebestraum No. 3</a></li>
+    </ul>
+  </li>
 </ul>
+
+<p>Apart from music, I enjoy:</p>
+<ul>
+  <li>💪 Working out and practicing <a href="https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/">Les Mills Body Combat</a>.</li>
+  <li>🏀 Playing basketball with friends.</li>
+</ul>
+
 
 <div class="divider"></div>
 
