@@ -91,7 +91,7 @@ redirect_from:
 
 <h2 class="subsection-title">During my PhD 🎓</h2>
 <ul>
-  <li>Received rigorous and extensive PhSD training under <a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Dr. Guang-Hong Chen</a>.</li>
+  <li>Received rigorous and extensive PhD training under <a href="https://scholar.google.com/citations?user=nw7lybEAAAAJ&hl=en">Dr. Guang-Hong Chen</a>.</li>
   <li>Research specialties:
     <ul>
       <li>🔹 <a href="/research/research-1">Quality-assured AI-based image reconstruction</a></li>
