@@ -95,9 +95,9 @@ redirect_from:
   <li>Research specialties:
     <ul>
       <li>🔹 <a href="/research/research-1">Quality-assured AI-based image reconstruction</a></li>
-      <li>🔹 <a href="/research/research-2">Interior Problem</a></li>
+      <li>🔹 <a href="/research/research-2">Interior Problem (Region of Interest tomographic reconstruction)</a></li>
       <li>🔹 <a href="/research/research-3">Patient-specific quantitative image quality assessment</a></li>
-      <li>🔹 <a href="/research/research-4">Two-view tomographic reconstruction</a></li>
+      <li>🔹 <a href="/research/research-4">Deep learning empowered two view reconstruction</a></li>
       <li>🔹 <a href="/research/research-5">Chest X-ray COVID-19 classification</a></li>
     </ul>
   </li>
@@ -111,7 +111,7 @@ redirect_from:
   <li>Significant research experiences:
     <ul>
       <li>🔹 Perfusion imaging, CT/CBCT Angiography</li>
-      <li>🔹 Fast/Accelerated MRI</li>
+      <li>🔹 Accelerated/Undersampled MRI</li>
       <li>🔹 Denoising Diffusiong Probablistic Model</li>
     </ul>
   </li>
