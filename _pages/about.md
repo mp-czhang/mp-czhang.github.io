@@ -108,7 +108,7 @@ redirect_from:
       <li>13 oral presentations 🎤</li>
     </ul>
   </li>
-  <li>Significant resaerch experiences:
+  <li>Significant research experiences:
     <ul>
       <li>🔹 Perfusion imaging, CT/CBCT Angiography</li>
       <li>🔹 Fast/Accelerated MRI</li>
