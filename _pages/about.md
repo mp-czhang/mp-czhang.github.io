@@ -123,14 +123,14 @@ redirect_from:
   <li>🔸 <a href="/clinical/clinical-DLG">Enhancing beam fluence calculations with DLG</a></li>
   <li>🔸 <a href="/clinical/clinical-SGRT">Implementing SGRT for tattoo-less right breast RT</a></li>
 </ul>
-<p>Current interests:
+<p>Current interests:</p>
 <ul>
   <li>🔹 <a href="/research/research-5">Radiomics-guided radiation therapy</a></li>
   <li>🔹 Prognostic value of <a href="/images/HabitatProstate1.png">habitat radiomic features</a></li>
   <li>🔹 Commissioning New Jersey's first <a href="/clinical/clinical-MRLC">MR-Linac</a></li>
 </ul>
-</p>
 
+<div class="divider"></div>
 
 <div class="section-title">Academic Service 📧</div>
 <p>I actively contribute to academic journals and conferences:</p>
@@ -191,5 +191,3 @@ redirect_from:
     <span class="institution">Exchange, Electrical and Computer Engineering, Georgia Institute of Technology</span>, 8/2015-12/2015
   </li>
 </ul>
-
-<div class="divider"></div>
