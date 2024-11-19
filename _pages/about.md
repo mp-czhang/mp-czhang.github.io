@@ -104,7 +104,7 @@ redirect_from:
   <li>Notable Publications:
     <ul>
       <li>5 <a href="/publication/">first-authored journal papers</a> 📄</li>
-      <li>1 book chapter 🔖</li>
+      <li>1 <a href="/publication/2023-bookchapter-6">book chapter</a> 🔖</li>
       <li>13 oral presentations 🎤</li>
     </ul>
   </li>
