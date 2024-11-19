@@ -131,6 +131,34 @@ redirect_from:
 </ul>
 </p>
 
+
+<div class="section-title">Academic Service 📧</div>
+<p>I actively contribute to academic journals and conferences:</p>
+<ul>
+  <li>Associate Editor appointment ✒️ in <a href="https://www.aapm.org/org/structure/default.asp?committee_code=MPBAE">Medical Physics Editorial Board (MPEB)</a> of AAPM (starting 1/1/2023).</li>
+  <li>Reviewed over 100 papers for journals, including:
+    <ul>
+      <li>📘 <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a></li>
+      <li>📗 <a href="https://iopscience.iop.org/journal/0031-9155">Physics in Medicine & Biology</a></li>
+      <li>📕 <a href="https://www.redjournal.org/">The Red Journal</a></li>
+      <li>📓 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852">Transactions of Computational Imaging</a></li>
+      <li>📔 <a href="https://www.frontiersin.org/journals/oncology">Frontiers in Oncology</a></li>
+      <li>📒 <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging">Journal of Medical Imaging</a></li>
+    </ul>
+  </li>
+</ul>
+
+<div class="divider"></div>
+
+<div class="section-title">Me in Life 🎶</div>
+<p>Here’s a glimpse of my passions:</p>
+<ul>
+  <li>Playing musical instruments 🪗🎹</li>
+  <li>Working out 💪</li>
+  <li><a href="https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/">Body combat</a> ✊</li>
+  <li>Playing basketball 🏀</li>
+</ul>
+
 <div class="divider"></div>
 
 <div class="section-title">Education 📚</div>
@@ -165,30 +193,3 @@ redirect_from:
 </ul>
 
 <div class="divider"></div>
-
-<div class="section-title">Academic Service 📧</div>
-<p>I actively contribute to academic journals and conferences:</p>
-<ul>
-  <li>Associate Editor appointment ✒️ in <a href="https://www.aapm.org/org/structure/default.asp?committee_code=MPBAE">Medical Physics Editorial Board (MPEB)</a> of AAPM (starting 1/1/2023).</li>
-  <li>Reviewed over 100 papers for journals, including:
-    <ul>
-      <li>📘 <a href="https://aapm.onlinelibrary.wiley.com/journal/24734209">Medical Physics</a></li>
-      <li>📗 <a href="https://iopscience.iop.org/journal/0031-9155">Physics in Medicine & Biology</a></li>
-      <li>📕 <a href="https://www.redjournal.org/">The Red Journal</a></li>
-      <li>📓 <a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6745852">Transactions of Computational Imaging</a></li>
-      <li>📔 <a href="https://www.frontiersin.org/journals/oncology">Frontiers in Oncology</a></li>
-      <li>📒 <a href="https://www.spiedigitallibrary.org/journals/journal-of-medical-imaging">Journal of Medical Imaging</a></li>
-    </ul>
-  </li>
-</ul>
-
-<div class="divider"></div>
-
-<div class="section-title">Me in Life 🎶</div>
-<p>Here’s a glimpse of my passions:</p>
-<ul>
-  <li>Playing musical instruments 🪗🎹</li>
-  <li>Working out 💪</li>
-  <li><a href="https://www.lesmills.com/us/workouts/fitness-classes/bodycombat/">Body combat</a> ✊</li>
-  <li>Playing basketball 🏀</li>
-</ul>
