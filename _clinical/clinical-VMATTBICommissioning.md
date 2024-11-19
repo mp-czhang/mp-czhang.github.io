@@ -1,7 +1,7 @@
 ---
 title: "Commissioning of VMAT-TBI"
 date: 2023-11-1
-excerpt: "I developed, tested and validated an advanced treatment procedure for total body irradiation (TBI) using multi-isocenter VMAT. Before the [commissioning of our new cancer center](/clinical/clinical-TBc). This project involves extensive clinical programming, automation of the treatment planning and end-to-end clinical validation. *Please click the title to know more about the commissioning of this new technique!*" 
+excerpt: "I developed, tested and validated an advanced treatment procedure for total body irradiation (TBI) using multi-isocenter VMAT. Before the [commissioning of our new cancer center](/clinical/clinical-TBc). This project involves extensive clinical programming, automation of the treatment planning and end-to-end clinical validation. **Please click the title to know more about the commissioning of this new technique!**" 
 collection: clinical
 ---
 

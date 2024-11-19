@@ -1,7 +1,7 @@
 ---
 title: "Varian Halycon™ Annual QA"
 date: 2024-8-10
-excerpt: "I independently performed annual QA of the Varian Halcyon™ machine. In the dosimetry part, I set up the IBA blue phantom water tank on the Halcyon machine. The challenges include a closed-bore setup and imaging setup without lasers and field light. *Please click the title to know more about my effort!*"
+excerpt: "I independently performed annual QA of the Varian Halcyon™ machine. In the dosimetry part, I set up the IBA blue phantom water tank on the Halcyon machine. The challenges include a closed-bore setup and imaging setup without lasers and field light. **Please click the title to know more about my effort!**"
 collection: clinical
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Varian Truebeam™ Annual QA"
 date: 2024-6-1
-excerpt: "I independently finished all the mechanical part of Varian Truebeam™ annual QA and finished the annual mechanical and dosimetry verification. I learned to use IBA Blue Phantom2® to perform TG-51 and beam profile measurement. *Please click the title to know more about my effort!*"
+excerpt: "I independently finished all the mechanical part of Varian Truebeam™ annual QA and finished the annual mechanical and dosimetry verification. I learned to use IBA Blue Phantom2® to perform TG-51 and beam profile measurement. **Please click the title to know more about my effort!**"
 collection: clinical
 ---
 

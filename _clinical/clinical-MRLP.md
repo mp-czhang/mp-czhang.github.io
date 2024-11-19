@@ -1,7 +1,7 @@
 ---
 title: "MRI/MR-Linac Rotation"
 date: 2024-5-1
-excerpt: "Over the course of three months, I started the preparation for the commissioning of Elekta Unity MR-Linac machine in our new cancer center. I covered on topics of MR-only simulation, MR-Linac setup, MR-Linac reference dosimetry, MR-Linac site-specific treatment. *Please click the title to know more about my learning!*"
+excerpt: "Over the course of three months, I started the preparation for the commissioning of Elekta Unity MR-Linac machine in our new cancer center. I covered on topics of MR-only simulation, MR-Linac setup, MR-Linac reference dosimetry, MR-Linac site-specific treatment. **Please click the title to know more about my learning!**"
 collection: clinical
 --- 
 
