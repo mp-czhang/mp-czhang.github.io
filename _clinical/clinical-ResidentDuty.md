@@ -5,6 +5,7 @@ excerpt: "In my two-year residency, I have contributed significantly to the clin
 collection: clinical
 ---
 
+My clinical duties include:
 - Led the effort of monthly and annual QA for Varian TrueBeam, Halcyon, Mevion S250 Proton Therapy System, GE Lightspeed 16 CT, Philips Big Bore RT CT, and Varian Acuity.
 - Worked as “physicist of the day” to resolve daily machine issues and conducted repairs and replacements for MLC motors to ensure minimal machine downtime.
 - Supervised the collection of 4D CT with Varian Real-time Position Management (RPM) Respiratory Gating System and resolved various issues during 4D CT acquisition and reconstruction.
