@@ -128,7 +128,7 @@ redirect_from:
 </ul>
 <p>Current clinical research interests:</p>
 <ul>
-  <li>🔹 Discovering Imaging biomarker for metastatic prostate cancer</li>
+  <li>🔹 Discovering Imaging biomarker from CT/PSMA/mpMRI for metastatic prostate cancer</li>
   <li>🔹 Prognostic value of <a href="/images/HabitatProstate1.png">habitat radiomic feature</a> to metastatic prostate cancer</li>
   <li>🔹 Commissioning the <a href="/clinical/clinical-MRLC">MR-Linac</a> in our new cancer center </li>
 </ul>
