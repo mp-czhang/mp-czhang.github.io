@@ -156,7 +156,7 @@ redirect_from:
 
 <div class="section-title">Me in Life 🎶</div>
 
-<p>I am an <a href="https://www.16personalities.com/infj-personality">INFJ-A</a> type person. I generously contribute energy to the group but tend to gain energy from doing things alone. My passion for musical instruments has been a significant part of my life:</p>
+<p>I am an <a href="https://www.16personalities.com/infj-personality">INFJ-A</a> type person. I generously contribute energy to the group but tend to gain energy from doing things alone. I will fit right in to the clinical environment. My passion for musical instruments has been a significant part of my life:</p>
 
 <ul>
   <li>
