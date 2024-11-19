@@ -84,7 +84,7 @@ redirect_from:
 
 <div class="highlight-box">
   <p>
-    I am a Medical Physics Resident (PGY-2) undergoing <a href="https://sites.rutgers.edu/cinj-radiation-oncology/medical-physics-residency/">residency training program</a> at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. I recommend checking out my <a href="/clinical/">clinical training timeline</a> 📆
+    I am a Medical Physics Resident (PGY-2) undergoing <a href="https://sites.rutgers.edu/cinj-radiation-oncology/medical-physics-residency/">residency training program</a> at Robert Wood Johnson University Hospital and Rutgers Cancer Institute of New Jersey. I recommend checking out my <a href="/clinical/">clinical training timeline</a> 📆.
   </p>
   <p><b>📢 I am currently open to a faculty position starting 📅June/July 2025! Get in touch！</b></p>
 </div>
