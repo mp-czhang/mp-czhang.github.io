@@ -103,7 +103,7 @@ redirect_from:
   </li>
   <li>Notable Publications:
     <ul>
-      <li>5 first-authored journal papers 📄</li>
+      <li>5 <a href="/publication/">first-authored journal papers</a> 📄</li>
       <li>1 book chapter 🔖</li>
       <li>13 oral presentations 🎤</li>
     </ul>
