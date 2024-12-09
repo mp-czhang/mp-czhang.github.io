@@ -23,9 +23,9 @@ In addition, Zhang et al. [5] applied DL-PICCS to the task of dual energy CT und
 The application of DL-PICCS to high-pitch helical CT was patented [6].
 
 ### Reference
-[1] [Chengzhu Zhang, Yinsheng Li, Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical Physics 48.10 (2021): 5765-5781.](/_publication/2021-DL-PICCS-1.md)
+[1] [Chengzhu Zhang, Yinsheng Li, Guang‐Hong Chen. "Accurate and robust sparse‐view angle CT image reconstruction using deep learning and prior image constrained compressed sensing (DL‐PICCS)." Medical Physics 48.10 (2021): 5765-5781.](/publication/2021-DL-PICCS-1.md)
 
-[2] [Hayes J W, Montoya J, Budde A, et al. High pitch helical CT reconstruction[J]. IEEE Transactions on Medical Imaging, 2021, 40(11): 3077-3088.](/_publication/2021-HighPitch-3.md)
+[2] [Hayes J W, Montoya J, Budde A, et al. High pitch helical CT reconstruction[J]. IEEE Transactions on Medical Imaging, 2021, 40(11): 3077-3088.](/publication/2021-HighPitch-3.md)
 
 [3] Weiwen Wu, et al. "DRONE: Dual-domain residual-based optimization network for sparse-view CT reconstruction." IEEE Transactions on Medical Imaging 40.11 (2021): 3002-3014.
 

@@ -13,6 +13,6 @@ To overcome this limitation, I developed a brand-new method to reconstruct the n
 This discovery lets us directly predict how well radiologists can correctly identify a given lesion. We can use this discovery to guide the delivery of x-rays in CT as in intensity-modulated radiotherapy (IMRT) to maximize the diagnostic performance for a given imaging task.
 
 ### Reference
-[1] [Zhang, Chengzhu, et al. "Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition." Medical physics (2024).](/_publication/2024-SingleNPS-4.md)
+[1] [Zhang, Chengzhu, et al. "Experimental measurement of local noise power spectrum (NPS) in photon counting detector‐CT (PCD‐CT) using a single data acquisition." Medical physics (2024).](/publication/2024-SingleNPS-4.md)
 
-[2] [Zhang, Chengzhu, et al. "Noise power spectrum (NPS) in computed tomography: Enabling local NPS measurement without stationarity and ergodicity assumptions." Medical physics (2024).](/_publication/2024-LocalNPS-5.md)
+[2] [Zhang, Chengzhu, et al. "Noise power spectrum (NPS) in computed tomography: Enabling local NPS measurement without stationarity and ergodicity assumptions." Medical physics (2024).](/publication/2024-LocalNPS-5.md)
