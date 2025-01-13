@@ -15,4 +15,5 @@ collection: clinical
   <li><a href="/files/Brachy_DoseCalc.pdf">A synergy between TG43 and TG71 Lecture</a></li>
   <li><a href="/files/Brachy_Prostate.pdf">A comprehensive guide to Prostate Cancer Brachytherapy Lecture</a></li>
   <li><a href="/files/MRLinac_Prostate.pdf">Challenger or Trailblazer? How MR-Guided Radiotherapy is Shaping Prostate Cancer Treatment</a></li>
+  <li><a href="/files/Proton_NYPC.pdf">Unveiling Pencil Beam Proton Therapy Lecture</a></li>
 </ul>
